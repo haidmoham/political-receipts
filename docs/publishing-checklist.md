@@ -4,19 +4,19 @@ Prepared 2026-09-08. This is a submission plan, not evidence of publication.
 
 ## Release package
 
-- [ ] Verify the final manifest and package contents. Keep only permissions required by shipped features.
+- [x] Verify the review manifest and package contents. Only `activeTab` and `scripting` are required. Actual Chrome permission behavior remains a separate gate.
 - [ ] Verify finance values, reporting periods, source links, identity matching, and snapshot dates against the bundled data.
 - [ ] Verify hover, keyboard focus, dismissal, page layout, repeated scans, and restricted-page behavior in Chrome.
 - [ ] Inspect network behavior during a scan. Confirm no page upload, analytics, or remote code.
-- [ ] Confirm no unused storage permission remains in the packaged manifest. Site choices use Chrome permissions and persistent script registrations.
+- [x] Confirm no unused storage permission remains in the packaged manifest. Site choices use Chrome permissions and persistent script registrations.
 - [ ] Test automatic site scanning, per-site grants, permission denial, and revocation. Confirm disclosure of local page text, current URL, and retained site grants.
 - [ ] Check bundled portrait and comparison resource access from injected cards. Confirm comparison registration notices, period warnings, withheld races, and source links.
-- [ ] Check the release ZIP contains the manifest at its root and excludes development files and credentials.
+- [x] Check the review ZIP contains the manifest at its root and excludes development files and credentials. Recheck the final user-approved package before upload.
 
 ## Store assets and public documents
 
-- [ ] Provide the packaged 128×128 PNG icon.
-- [ ] Provide a 440×280 promotional image.
+- [x] Provide the packaged 128×128 PNG icon in `store-assets/icon-128.png`.
+- [x] Provide a 440×280 promotional image in `store-assets/promo-440x280.png`. Its dimensions and rendered text were checked.
 - [ ] Capture at least one 1280×800 screenshot of the actual Chrome extension. A demo mockup is insufficient proof of extension behavior. Up to five screenshots are supported. A marquee image and video are optional. See [Chrome image requirements](https://developer.chrome.com/docs/webstore/images).
 - [ ] Publish the verified privacy policy at a stable public URL.
 - [ ] Confirm a working support destination. A verified public repository issue tracker is acceptable as the project’s chosen support channel; do not invent its URL.
@@ -35,6 +35,6 @@ Prepared 2026-09-08. This is a submission plan, not evidence of publication.
 
 ## Current blockers
 
-The Chrome browser connection is unavailable in the current CUA session. The signed-in publisher identity, dashboard state, and live extension behavior are unverified. The user has requested a review before release. Public policy and support URLs are not yet established. Store review and approval depend on Google.
+The Chrome browser connection remains unavailable. The Web Store dashboard was inspected and is signed out. The shin86dev publisher identity and live extension behavior remain unverified. The user has requested a review before release. Public policy and support URLs are not yet established. Store review and approval depend on Google.
 
 No custom domain is selected. Before deploying to a custom subdomain, obtain the user’s choice of shin86.dev or mhaider.dev and the exact subdomain, as required by the user’s standing instruction.
