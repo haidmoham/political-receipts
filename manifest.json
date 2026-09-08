@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Receipts — Money in Politics",
+  "version": "0.1.0",
+  "description": "Hover over members of Congress to inspect sourced campaign finance receipts. Private by design. Made by shin86dev.",
+  "minimum_chrome_version": "114",
+  "permissions": ["activeTab", "scripting"],
+  "optional_host_permissions": ["https://*/*", "http://*/*"],
+  "action": {"default_popup": "popup.html", "default_title": "Receipts"},
+  "background": {"service_worker": "background.js"},
+  "web_accessible_resources": [{"resources": ["portraits/*.jpg", "compare.html"], "matches": ["https://*/*", "http://*/*"]}],
+  "icons": {"16": "icons/16.png", "32": "icons/32.png", "48": "icons/48.png", "128": "icons/128.png"}
+}
