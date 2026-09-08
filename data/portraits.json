@@ -1,0 +1,5364 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "retrievedAt": "2026-09-08T14:59:54.607Z",
+    "counts": {
+      "available": 524,
+      "missing": 15
+    },
+    "source": "unitedstates/images",
+    "sourceUrl": "https://github.com/unitedstates/images",
+    "rights": "Public-domain congressional portraits, per source repository; contributions under CC0-1.0.",
+    "licenseUrl": "https://github.com/unitedstates/images/blob/gh-pages/LICENSE",
+    "rightsEvidenceUrl": "https://github.com/propublica/sunlight-congress/issues/432",
+    "transform": "None. JPEG bytes preserved from the source 225x275 endpoint.",
+    "privacy": "Bundled local files. Do not fetch remote portraits while a user reads a page."
+  },
+  "portraits": [
+    {
+      "id": "A000055",
+      "status": "available",
+      "path": "data/portraits/A000055.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000055.jpg",
+      "sha256": "3df023212d7165563ccb95f3701b6fd6888ef889ebdefb29c372bb9e9fdd514c",
+      "bytes": 42349,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000148",
+      "status": "available",
+      "path": "data/portraits/A000148.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000148.jpg",
+      "sha256": "ea9de8937dfabf0aa30600c744d86fd8ccf7de8b8087227750f5978f24e2fbfb",
+      "bytes": 80709,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "A000369",
+      "status": "available",
+      "path": "data/portraits/A000369.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000369.jpg",
+      "sha256": "ccb61639dacbe443fc3babe5ee483fc181489cf61cbcbefdbf023c294972b6fc",
+      "bytes": 45128,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000370",
+      "status": "available",
+      "path": "data/portraits/A000370.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000370.jpg",
+      "sha256": "da1a450df6ab28ae20fbfe10444b7b0eef919cf648ee12f48e722ec493bc0a0e",
+      "bytes": 16603,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000371",
+      "status": "available",
+      "path": "data/portraits/A000371.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000371.jpg",
+      "sha256": "3140a49c1b451545b906d37d41f348d1fc5ae75f3a0181ef3d9582c4d4e5aa10",
+      "bytes": 12997,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000372",
+      "status": "available",
+      "path": "data/portraits/A000372.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000372.jpg",
+      "sha256": "45cc69ae38cb6358d10caa326ba0897083500f115d58fc8485562b456433c521",
+      "bytes": 15029,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000375",
+      "status": "available",
+      "path": "data/portraits/A000375.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000375.jpg",
+      "sha256": "e8925fd47d6fcfd8e74c914394078efb8de856850572a1964ed285e3334dca4b",
+      "bytes": 66946,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000379",
+      "status": "available",
+      "path": "data/portraits/A000379.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000379.jpg",
+      "sha256": "c71367bc32f0ae07350482cb4988d5265ac44b729ab0d31051a71b3b810c90ec",
+      "bytes": 92917,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000380",
+      "status": "available",
+      "path": "data/portraits/A000380.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000380.jpg",
+      "sha256": "a4f92f035f2b53b6516ba79b38f0c87ddf302ac7a4d1d88495a75f2826c39fe0",
+      "bytes": 66012,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000381",
+      "status": "available",
+      "path": "data/portraits/A000381.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000381.jpg",
+      "sha256": "40ae89b1bf5481583fecafb9f4a4887dcbaa71fa7d971c7df3c4f38c5a76862f",
+      "bytes": 64162,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000382",
+      "status": "available",
+      "path": "data/portraits/A000382.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000382.jpg",
+      "sha256": "2222cb4d3a688308219acf7764875ae64d16c1f75ec9b48759de22f41bb1fe11",
+      "bytes": 64691,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "A000383",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/A000383.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "B000490",
+      "status": "available",
+      "path": "data/portraits/B000490.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B000490.jpg",
+      "sha256": "b65020c833c18b565d0dc072e15685296c6b864c569437f5d126689412b3e89a",
+      "bytes": 54294,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B000668",
+      "status": "available",
+      "path": "data/portraits/B000668.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B000668.jpg",
+      "sha256": "255cf4ce5f536d04602450d3ba2fc36acf93e429eddea374a03e10b5fc2dbc0b",
+      "bytes": 18818,
+      "height": 275,
+      "width": 183
+    },
+    {
+      "id": "B000740",
+      "status": "available",
+      "path": "data/portraits/B000740.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B000740.jpg",
+      "sha256": "57f298288f6e54b9cefbc2f9b38e29ab8842d8ffd1aa915b7e666261f413af4a",
+      "bytes": 17103,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "B000825",
+      "status": "available",
+      "path": "data/portraits/B000825.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B000825.jpg",
+      "sha256": "7080d948a6d6f2f7f6aed0e0e92ae80d60103966c49a5505b50d7d918a07c36f",
+      "bytes": 66995,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "B001230",
+      "status": "available",
+      "path": "data/portraits/B001230.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001230.jpg",
+      "sha256": "d84e136530dbc5ccbd01f4740369986efaa3683077ae3f75d535b3c44a914278",
+      "bytes": 54690,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001236",
+      "status": "available",
+      "path": "data/portraits/B001236.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001236.jpg",
+      "sha256": "88bec03b355b7d336930cfe0f8b020b6ae65264748fc648770bd375b4d04049d",
+      "bytes": 54160,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001243",
+      "status": "available",
+      "path": "data/portraits/B001243.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001243.jpg",
+      "sha256": "c6fd39bff8c7a5902520d56ed5c5f708b5798cbeddd435545ebd02c8581a54db",
+      "bytes": 62561,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001257",
+      "status": "available",
+      "path": "data/portraits/B001257.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001257.jpg",
+      "sha256": "abd3a018b18a58d08bfaa2fc3759c59df3e256ec82b9f6b956091c7b659a6741",
+      "bytes": 49424,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001260",
+      "status": "available",
+      "path": "data/portraits/B001260.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001260.jpg",
+      "sha256": "fa460a457d4cbb01503ae389d82b7f6e4d6954b0a08a5c43515a591198e1f5e9",
+      "bytes": 50997,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001261",
+      "status": "available",
+      "path": "data/portraits/B001261.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001261.jpg",
+      "sha256": "e57499292e0df719f51c6a889a8d03bd57d1a40dce69b2a975ec4ec2995f4990",
+      "bytes": 45801,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001267",
+      "status": "available",
+      "path": "data/portraits/B001267.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001267.jpg",
+      "sha256": "09f97046ee4fb97c0a1c2f42a5aaefe9bfa1be4b420e3dd99b59e3565cab8ad1",
+      "bytes": 47581,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001277",
+      "status": "available",
+      "path": "data/portraits/B001277.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001277.jpg",
+      "sha256": "69d3287366ace1024f4bcc3af05ba92d6813fd6562c1fe973831ec299bf94461",
+      "bytes": 50570,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001278",
+      "status": "available",
+      "path": "data/portraits/B001278.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001278.jpg",
+      "sha256": "1938b7d0eecb4d63fa6d0bcf0736d7578959168cf84f29594413c84447f94299",
+      "bytes": 56905,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001281",
+      "status": "available",
+      "path": "data/portraits/B001281.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001281.jpg",
+      "sha256": "6ae5833bd79365e273b836f1879fa1a0c94c1c82f2b6eae552e53148f5198d10",
+      "bytes": 61009,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001282",
+      "status": "available",
+      "path": "data/portraits/B001282.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001282.jpg",
+      "sha256": "0ed8355844f12426ef629c8d8c56b299a5990a386cab20cfc85e57ec18dd80e2",
+      "bytes": 51006,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001285",
+      "status": "available",
+      "path": "data/portraits/B001285.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001285.jpg",
+      "sha256": "f68e89eaf7e48580859d40a640c8fa465bf4ddc241dbbb8d2628fc12ed897f0e",
+      "bytes": 52673,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001287",
+      "status": "available",
+      "path": "data/portraits/B001287.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001287.jpg",
+      "sha256": "94d89ce36f7f3ab12fb4f21ae9138d6c22b61a6ea09abfc036606ac5f56bce73",
+      "bytes": 56362,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001288",
+      "status": "available",
+      "path": "data/portraits/B001288.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001288.jpg",
+      "sha256": "9a500874ecffca828d1e484334edd0204ae1100cada82c9304f969fc8d8e3cbb",
+      "bytes": 39308,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001291",
+      "status": "available",
+      "path": "data/portraits/B001291.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001291.jpg",
+      "sha256": "5a1d4f89974fef278c3f8a69c60529078c6da0b8756e19a083ad87c8b09bc533",
+      "bytes": 14343,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001292",
+      "status": "available",
+      "path": "data/portraits/B001292.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001292.jpg",
+      "sha256": "cb37fd33e2de4d9efb409076f9303bf8349425687b175ffe993004b22c0af22d",
+      "bytes": 14400,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001295",
+      "status": "available",
+      "path": "data/portraits/B001295.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001295.jpg",
+      "sha256": "bfd7111b6215351eb192410062b2a4bd93400f34caeab19b5a91850778bbc21c",
+      "bytes": 14675,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001296",
+      "status": "available",
+      "path": "data/portraits/B001296.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001296.jpg",
+      "sha256": "a058d6ad6be15986cf051499299693d9deafe57fa7d723be46a22928188e6da3",
+      "bytes": 14615,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001298",
+      "status": "available",
+      "path": "data/portraits/B001298.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001298.jpg",
+      "sha256": "10713c69b56166a2e16f3141f6f9a5d0f915b97bdd8b3b89f37d5d399a2f16ef",
+      "bytes": 68471,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001299",
+      "status": "available",
+      "path": "data/portraits/B001299.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001299.jpg",
+      "sha256": "b71661312df84b8ede15a65e96cc23c20fbb35febe704118e694867fb54833a1",
+      "bytes": 52097,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001300",
+      "status": "available",
+      "path": "data/portraits/B001300.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001300.jpg",
+      "sha256": "18eefcde8c59022e2386e39d3fdeb65a3bb2aa0f76b99458666b3c0120f144ac",
+      "bytes": 69452,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001301",
+      "status": "available",
+      "path": "data/portraits/B001301.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001301.jpg",
+      "sha256": "dc19807aab59ba21c18bbe88ef3f9e42cc28611121f69f0605b8e34596c8bc19",
+      "bytes": 72297,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001302",
+      "status": "available",
+      "path": "data/portraits/B001302.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001302.jpg",
+      "sha256": "bb81589aa03f70dff15b15e15ffd294fc338750d137fcb1918659087fd9cbd0a",
+      "bytes": 79236,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001303",
+      "status": "available",
+      "path": "data/portraits/B001303.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001303.jpg",
+      "sha256": "386b8e5986180512e15f53a8d19432e9ecd7f09f70e31076853c798f01217e74",
+      "bytes": 74893,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001305",
+      "status": "available",
+      "path": "data/portraits/B001305.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001305.jpg",
+      "sha256": "cee4d1d69ec36dab08192b3ea23f60edc0bfee51776ed47fcb9b58de01d032a5",
+      "bytes": 80635,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001306",
+      "status": "available",
+      "path": "data/portraits/B001306.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001306.jpg",
+      "sha256": "62dce37fc0f4d6db311965dd76c064ddeb879a331ed08cba308355349e7347bd",
+      "bytes": 101332,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001307",
+      "status": "available",
+      "path": "data/portraits/B001307.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001307.jpg",
+      "sha256": "1ea0f3e78365d0a70aefcf0f81043acb2af6d2e82037d2c1645bb87f49669ad6",
+      "bytes": 23806,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001309",
+      "status": "available",
+      "path": "data/portraits/B001309.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001309.jpg",
+      "sha256": "c180f7020dbff94b038204bb4f189b911e0cd43a5c08393d14c1f5a3572b577d",
+      "bytes": 137922,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001313",
+      "status": "available",
+      "path": "data/portraits/B001313.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001313.jpg",
+      "sha256": "b6393cd9c46ae3b1030a36bc7f1e76899c4e4e59754d8e203a87c1af1e0838f3",
+      "bytes": 28684,
+      "height": 275,
+      "width": 218
+    },
+    {
+      "id": "B001314",
+      "status": "available",
+      "path": "data/portraits/B001314.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001314.jpg",
+      "sha256": "b1fd911da93876cf084609a86823122e02b15f03520d9935b0fdbf0aac7aa8aa",
+      "bytes": 123462,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001315",
+      "status": "available",
+      "path": "data/portraits/B001315.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001315.jpg",
+      "sha256": "9e85c3ce3bfb7a05143bd8ee605024628899900e0fbd2c8511909c64a743008b",
+      "bytes": 134333,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001316",
+      "status": "available",
+      "path": "data/portraits/B001316.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001316.jpg",
+      "sha256": "5b157683d61835318da36f76efc13f49f791b14284f625dc7de412688e715918",
+      "bytes": 94492,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001317",
+      "status": "available",
+      "path": "data/portraits/B001317.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001317.jpg",
+      "sha256": "84a5a363a8e89f795bcba0b0ee23e29fbcd32e053af786cdeebc1b4f9af082a5",
+      "bytes": 70840,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001318",
+      "status": "available",
+      "path": "data/portraits/B001318.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001318.jpg",
+      "sha256": "da7c467d23ee8e77642a644192322367ff30bb078693948f81a58722d4a90f85",
+      "bytes": 62461,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001319",
+      "status": "available",
+      "path": "data/portraits/B001319.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001319.jpg",
+      "sha256": "a11cbbb6f3bd26c74d9b18630bfcc5e31dadff021bb5601ddb5172c30d4d6f72",
+      "bytes": 58850,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001321",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001321.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "B001322",
+      "status": "available",
+      "path": "data/portraits/B001322.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001322.jpg",
+      "sha256": "5bf004e327c4bb31025cf5db25c5b9dcc4cc690b19bb28ea742716a1bb51376e",
+      "bytes": 83152,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001323",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001323.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "B001324",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001324.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "B001325",
+      "status": "available",
+      "path": "data/portraits/B001325.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001325.jpg",
+      "sha256": "0166e7dba46233ecc41f1030410b9b4ff2e2316702ac371f56f4d2266501e7bb",
+      "bytes": 96565,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001326",
+      "status": "available",
+      "path": "data/portraits/B001326.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001326.jpg",
+      "sha256": "2df2789466da6c5ca563de027d0a3af78c81f371efbfe93ebf1423933224d3d9",
+      "bytes": 37594,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001327",
+      "status": "available",
+      "path": "data/portraits/B001327.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001327.jpg",
+      "sha256": "3b682023ad26a36c6e74ddd75d0a4591710c210b37ac7d3ebe11dfeee1f1900e",
+      "bytes": 80418,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "B001328",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/B001328.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "C000059",
+      "status": "available",
+      "path": "data/portraits/C000059.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C000059.jpg",
+      "sha256": "82d71ad599bf77ecdfef63f10a17c2542e104ef00af68d5c7f4f4f3e7807ba3f",
+      "bytes": 45200,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C000127",
+      "status": "available",
+      "path": "data/portraits/C000127.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C000127.jpg",
+      "sha256": "1f443352bf71b96b5387c0833e9bfdbfcefb8b7cd3973eeb8b938bf33a06be3d",
+      "bytes": 52643,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C000537",
+      "status": "available",
+      "path": "data/portraits/C000537.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C000537.jpg",
+      "sha256": "9cad83415a842ead6ad704c0da443e80a8058c6b1129ea636270757650853e43",
+      "bytes": 55962,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C000880",
+      "status": "available",
+      "path": "data/portraits/C000880.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C000880.jpg",
+      "sha256": "5a852aa3cb728371df780625623a32ca7e42a6fd8cc8495fd1f11d278653d051",
+      "bytes": 47531,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001035",
+      "status": "available",
+      "path": "data/portraits/C001035.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001035.jpg",
+      "sha256": "7ed4fbd03bccc333e1dc7cb9f0f8847ed1dc88465940b67f1a5375614e505908",
+      "bytes": 51504,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001039",
+      "status": "available",
+      "path": "data/portraits/C001039.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001039.jpg",
+      "sha256": "0fb8cf1ff67710d9bb19348253727b425d527c29b65123a5b24f5957396b41e8",
+      "bytes": 22470,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "C001047",
+      "status": "available",
+      "path": "data/portraits/C001047.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001047.jpg",
+      "sha256": "76272bec8405f268b29388733d736cd45b789efc7a7a01339ec87f332059e7ad",
+      "bytes": 64847,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001051",
+      "status": "available",
+      "path": "data/portraits/C001051.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001051.jpg",
+      "sha256": "92aa2f5ea30c0352db228d00b9185ed327329ea298c4de8426cd56cb0a01a5f5",
+      "bytes": 57515,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001053",
+      "status": "available",
+      "path": "data/portraits/C001053.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001053.jpg",
+      "sha256": "d6c755cd713f21632547131b18544b65bbd758fe527ab37288b4e7eb2d260a65",
+      "bytes": 48304,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001055",
+      "status": "available",
+      "path": "data/portraits/C001055.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001055.jpg",
+      "sha256": "f0a49a6caa9417a5f055f0a24d91a95e05e975cdfcf89d5e49e622ce20308d51",
+      "bytes": 61479,
+      "height": 275,
+      "width": 183
+    },
+    {
+      "id": "C001056",
+      "status": "available",
+      "path": "data/portraits/C001056.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001056.jpg",
+      "sha256": "b30a1a87b9be24bb7a679e078694a503e38a358cdbbb3c10cabf16ad7f46acd3",
+      "bytes": 14191,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001059",
+      "status": "available",
+      "path": "data/portraits/C001059.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001059.jpg",
+      "sha256": "e7838257ccb7c1c4515da88c3f24dd28919a9060e5786fcb09ceeeee5aacc4b0",
+      "bytes": 52487,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001061",
+      "status": "available",
+      "path": "data/portraits/C001061.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001061.jpg",
+      "sha256": "fb75d63f327a69b11b4de507f8790c14c8050d268987bdf336cbfc7fbbf4ce35",
+      "bytes": 52761,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001063",
+      "status": "available",
+      "path": "data/portraits/C001063.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001063.jpg",
+      "sha256": "277aa0a04f15903ff3bb6c93fcdf3ad24e20d75860839978d3716cd22d28331c",
+      "bytes": 52222,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001066",
+      "status": "available",
+      "path": "data/portraits/C001066.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001066.jpg",
+      "sha256": "5473b5943d741e33e3c5c04c07d311366a3c45bf3055b90134d1368abbe0a4fd",
+      "bytes": 58400,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001067",
+      "status": "available",
+      "path": "data/portraits/C001067.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001067.jpg",
+      "sha256": "0ee2ccf1f1e3c3aaa02f164d875afb9b93f5bc90b347ce8b35bcae5956841454",
+      "bytes": 48066,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001068",
+      "status": "available",
+      "path": "data/portraits/C001068.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001068.jpg",
+      "sha256": "3c14c97b7995b7176002f4aad61e88462196d2d8889d4d7bbec4f2f3f315c145",
+      "bytes": 50388,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001069",
+      "status": "available",
+      "path": "data/portraits/C001069.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001069.jpg",
+      "sha256": "99846005231c9649137f629f1698a450ec7998bcd326ec75b6efa30507e974e8",
+      "bytes": 46506,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001072",
+      "status": "available",
+      "path": "data/portraits/C001072.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001072.jpg",
+      "sha256": "669fa5e482903f5e57b8bde34838ef44f3f0c74fe96c7433f6238450874e25a3",
+      "bytes": 46335,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001075",
+      "status": "available",
+      "path": "data/portraits/C001075.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001075.jpg",
+      "sha256": "89d27f879dd4eb5a0cf55b6968da530e225b579ef19052b1a7fff3785413dbee",
+      "bytes": 48730,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001080",
+      "status": "available",
+      "path": "data/portraits/C001080.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001080.jpg",
+      "sha256": "e0ff82f0914fb8b939c943becac6d3acabb1a53356dd49ba6548d41381e8d2b0",
+      "bytes": 49753,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001087",
+      "status": "available",
+      "path": "data/portraits/C001087.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001087.jpg",
+      "sha256": "61ce1ec3b97a6f7d1916428e5466de5fc86afe7146efea287d7c3e28afcc5178",
+      "bytes": 39713,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001088",
+      "status": "available",
+      "path": "data/portraits/C001088.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001088.jpg",
+      "sha256": "3bcbea2133770a7d6368509f02950e49b3af6332f99beccd8d727b5b89297320",
+      "bytes": 45693,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001091",
+      "status": "available",
+      "path": "data/portraits/C001091.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001091.jpg",
+      "sha256": "08805398734a8fa677884ab87db6493745123362fa4e12dc7bb3b0e2c0b2a689",
+      "bytes": 13627,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001095",
+      "status": "available",
+      "path": "data/portraits/C001095.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001095.jpg",
+      "sha256": "7370e4c0c92405709cb9aec8b06b92e4d8cd058a947a609fb4d20c03c78f0efd",
+      "bytes": 49495,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001096",
+      "status": "available",
+      "path": "data/portraits/C001096.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001096.jpg",
+      "sha256": "63b741844c286c188ff290b189b13232d864eab931987f9ffbbc28396e543435",
+      "bytes": 50558,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001098",
+      "status": "available",
+      "path": "data/portraits/C001098.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001098.jpg",
+      "sha256": "1bccea73aa405b760c6f1fc566e9b1ccf8c222e3cc92aff45a70f6a88c3c79ec",
+      "bytes": 48875,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001101",
+      "status": "available",
+      "path": "data/portraits/C001101.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001101.jpg",
+      "sha256": "7938ab376e82fa02033e21d376bb074b7d9b6f5901f506391f9b46e46c47cd97",
+      "bytes": 19677,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001103",
+      "status": "available",
+      "path": "data/portraits/C001103.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001103.jpg",
+      "sha256": "d48bdcefaa1f218c75f6d93478cd20d3400b6c18a341f1719837234dabcaedc2",
+      "bytes": 14586,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001108",
+      "status": "available",
+      "path": "data/portraits/C001108.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001108.jpg",
+      "sha256": "d7233c6faf3efb49bf12cd4b840b555daea3c55fba7d4f06ff60c935076f0ae3",
+      "bytes": 74437,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001110",
+      "status": "available",
+      "path": "data/portraits/C001110.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001110.jpg",
+      "sha256": "407aee6a4a7fdbc3fdd814952be9350d123240510ab6d7482cffad12e9564bdf",
+      "bytes": 62291,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001112",
+      "status": "available",
+      "path": "data/portraits/C001112.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001112.jpg",
+      "sha256": "92d9c99095be839245149b483b5f857496a6e02173b4d65ed7e740d762806851",
+      "bytes": 65186,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001113",
+      "status": "available",
+      "path": "data/portraits/C001113.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001113.jpg",
+      "sha256": "d9e7a950a1b0dae4488f178d090f7e3c4348d7d94ed3f7f8ebc594bef29e462a",
+      "bytes": 67813,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001114",
+      "status": "available",
+      "path": "data/portraits/C001114.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001114.jpg",
+      "sha256": "9a2fe1b5683afbf3f4ff2bc05c202e38404236960b81334f80a599e3ca44e357",
+      "bytes": 59499,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001115",
+      "status": "available",
+      "path": "data/portraits/C001115.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001115.jpg",
+      "sha256": "5fe93f2642a867f3ec7815363628768f4cf5d5053b6b486801a89d220fb7363b",
+      "bytes": 40836,
+      "height": 275,
+      "width": 183
+    },
+    {
+      "id": "C001116",
+      "status": "available",
+      "path": "data/portraits/C001116.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001116.jpg",
+      "sha256": "e71e8b800bc2e44898a32873ee213334343e96d8e8f008296508f44600a6328c",
+      "bytes": 16060,
+      "height": 275,
+      "width": 183
+    },
+    {
+      "id": "C001117",
+      "status": "available",
+      "path": "data/portraits/C001117.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001117.jpg",
+      "sha256": "c9dd7ddf0274c870952942f6ce94398b664f07061e84408096c093704fc02099",
+      "bytes": 116412,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001118",
+      "status": "available",
+      "path": "data/portraits/C001118.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001118.jpg",
+      "sha256": "4ee88176135977b0729a53e909a74d9797b38f9575073d0f14cacc0b856a1e7d",
+      "bytes": 42265,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001119",
+      "status": "available",
+      "path": "data/portraits/C001119.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001119.jpg",
+      "sha256": "c6cddc92df469884883349693c3dd06bea369865b3af83a71cca73c6ea6a4f92",
+      "bytes": 31223,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001120",
+      "status": "available",
+      "path": "data/portraits/C001120.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001120.jpg",
+      "sha256": "84778d2db531891983d9363f6fd6386e04ed64de1b8ee37ec1abbf1aa1f3a26f",
+      "bytes": 48998,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001121",
+      "status": "available",
+      "path": "data/portraits/C001121.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001121.jpg",
+      "sha256": "5e97f6d3fd1ab3cee9cb5bb86277aa2250402c41a00b43504cafc8cc900b660b",
+      "bytes": 59631,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001123",
+      "status": "available",
+      "path": "data/portraits/C001123.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001123.jpg",
+      "sha256": "979f31a321eb9c6d049815d38d39879c94f418b6be211b38a09be6c7e15c0a5a",
+      "bytes": 91627,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001125",
+      "status": "available",
+      "path": "data/portraits/C001125.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001125.jpg",
+      "sha256": "3573115f5c3734c6a2b7224c5c17ce891494f5022a71cf9b540aed338ad07102",
+      "bytes": 50801,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "C001126",
+      "status": "available",
+      "path": "data/portraits/C001126.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001126.jpg",
+      "sha256": "0cafdd2cff1739eeb866d07ecfdc2697af274323c77d2776bc45285214bfdf07",
+      "bytes": 41378,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001129",
+      "status": "available",
+      "path": "data/portraits/C001129.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001129.jpg",
+      "sha256": "8c42786278a8ac389a784102fe31c91f7d88f514762d839a3f78591837fe683e",
+      "bytes": 90273,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001130",
+      "status": "available",
+      "path": "data/portraits/C001130.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001130.jpg",
+      "sha256": "0738541f584af72bf0ab6d7afc7e1b598f65ede8e70e0eb23d518c37c4bc91b7",
+      "bytes": 71809,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001131",
+      "status": "available",
+      "path": "data/portraits/C001131.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001131.jpg",
+      "sha256": "a8c4977e2d9925ca79d8ac52726ab936e741fcbe10443c4bd349c859d47856f8",
+      "bytes": 65531,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001132",
+      "status": "available",
+      "path": "data/portraits/C001132.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001132.jpg",
+      "sha256": "a0d2321d654eb23008a35cee12ef7ffb9ac460444ea1cf69a0165f5e8df161c7",
+      "bytes": 93368,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001133",
+      "status": "available",
+      "path": "data/portraits/C001133.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001133.jpg",
+      "sha256": "f6c6f4494cc77c31bdcff5c54e7cadb4cbab409472d3d1f903acd2da7c9fd2eb",
+      "bytes": 88041,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001136",
+      "status": "available",
+      "path": "data/portraits/C001136.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001136.jpg",
+      "sha256": "14f32fdbc02ccb52c044135b4af7282ee5797a40e67f9b4f15cbb673cea10957",
+      "bytes": 95090,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "C001137",
+      "status": "available",
+      "path": "data/portraits/C001137.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/C001137.jpg",
+      "sha256": "9a016df3319941eeb13eec61db7819c538d8e856d89bdceaf94fa64a21da339d",
+      "bytes": 80290,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000032",
+      "status": "available",
+      "path": "data/portraits/D000032.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000032.jpg",
+      "sha256": "f3fed0fc22707683dc12c521aedc55ed1e0b39de3ac2996f2d2dcb91fed09fa9",
+      "bytes": 19738,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "D000096",
+      "status": "available",
+      "path": "data/portraits/D000096.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000096.jpg",
+      "sha256": "a0b73489e46debd2b3ff8e6b5f0454a601b0d019b030bb500958974e865fb546",
+      "bytes": 53705,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000197",
+      "status": "available",
+      "path": "data/portraits/D000197.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000197.jpg",
+      "sha256": "43a67ea4d5a38e92f5674c65d76d81c74f2271b4680cbb8f26b708e83bc41703",
+      "bytes": 17231,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000216",
+      "status": "available",
+      "path": "data/portraits/D000216.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000216.jpg",
+      "sha256": "b4c26af941f5b9704602a2783f29e148121e1a6bca174d0d909f67db97e5000d",
+      "bytes": 54452,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000230",
+      "status": "available",
+      "path": "data/portraits/D000230.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000230.jpg",
+      "sha256": "a613cad44589240585fe7d4fd6669c8136c75355f83678cd142c3e8f5db36143",
+      "bytes": 94734,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000399",
+      "status": "available",
+      "path": "data/portraits/D000399.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000399.jpg",
+      "sha256": "eaddac836f219df7f404106625f31c66db536233164a75c7ca0b9351a0cc5603",
+      "bytes": 47979,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000530",
+      "status": "available",
+      "path": "data/portraits/D000530.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000530.jpg",
+      "sha256": "a231ef4578b65c2ccbf668df98375b8d4cad6ce4610f2b19a1eaf5cf790b71c4",
+      "bytes": 89483,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000563",
+      "status": "available",
+      "path": "data/portraits/D000563.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000563.jpg",
+      "sha256": "b540bfaee8743af96b65a333a6334be6b7f98145941ae826100eb36cb2ceee82",
+      "bytes": 46979,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000594",
+      "status": "available",
+      "path": "data/portraits/D000594.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000594.jpg",
+      "sha256": "8b652c4d149f37a5c023c0ee69978167bebaa549a166ef2742835612911b452c",
+      "bytes": 73806,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000600",
+      "status": "available",
+      "path": "data/portraits/D000600.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000600.jpg",
+      "sha256": "72b4f36ef6581288462b9858e3087ba128d132a3e85850898c7ac7e3708dfff6",
+      "bytes": 45612,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000616",
+      "status": "available",
+      "path": "data/portraits/D000616.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000616.jpg",
+      "sha256": "a22814dd44c53f5dac9ff08b6b04248a04087de217d9683e40c3645b60806d81",
+      "bytes": 46097,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000617",
+      "status": "available",
+      "path": "data/portraits/D000617.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000617.jpg",
+      "sha256": "b7bb4fe9f805d64c0bb1488803e7a7a3216bc391aec9079c42a2d7e37c6530ab",
+      "bytes": 56042,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000618",
+      "status": "available",
+      "path": "data/portraits/D000618.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000618.jpg",
+      "sha256": "60733980a98c31291fa76d377d149469c870b47a688b906b990f9526a638ae9f",
+      "bytes": 49676,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000622",
+      "status": "available",
+      "path": "data/portraits/D000622.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000622.jpg",
+      "sha256": "94b16e7eadf0f1cc563513851127767b3a37e08fa5cedfb86ebd25a719d34460",
+      "bytes": 54278,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000623",
+      "status": "available",
+      "path": "data/portraits/D000623.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000623.jpg",
+      "sha256": "b8823f7525fff6e50f6085e3a77b9286622503d4df3c87894d2c5b514e843164",
+      "bytes": 14822,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000624",
+      "status": "available",
+      "path": "data/portraits/D000624.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000624.jpg",
+      "sha256": "cd41d3e9340bb23af9608658b2d32e78780d1af8d7a37188bd9d87931c10dff0",
+      "bytes": 18124,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000626",
+      "status": "available",
+      "path": "data/portraits/D000626.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000626.jpg",
+      "sha256": "76457ae19efe491b08177efeb4c6ef0c72be865062b67d5a418fbc2cd2c10408",
+      "bytes": 48922,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000628",
+      "status": "available",
+      "path": "data/portraits/D000628.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000628.jpg",
+      "sha256": "7330c1c64405c32e5a6fe365839095083d6b5f4a627161829bcc125645cb7602",
+      "bytes": 71657,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000629",
+      "status": "available",
+      "path": "data/portraits/D000629.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000629.jpg",
+      "sha256": "ab9121ffe0bf86a1e064cb25f6027ce7dcec995198c3c36691ca1ac19c2aec29",
+      "bytes": 42447,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000631",
+      "status": "available",
+      "path": "data/portraits/D000631.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000631.jpg",
+      "sha256": "4700251843272f4e191bdfb4025fb5ab7d01504c14cc74a973fdc8ed883ac834",
+      "bytes": 58568,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000634",
+      "status": "available",
+      "path": "data/portraits/D000634.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000634.jpg",
+      "sha256": "08840319d776a47bf8cc379f031c317791d3b60b4c5ef1ef0bd23d276e79c688",
+      "bytes": 84364,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "D000635",
+      "status": "available",
+      "path": "data/portraits/D000635.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/D000635.jpg",
+      "sha256": "b34e834e01753b3952d9839f248ab10dafbed7834970cb2bc2b107f4100b5d3e",
+      "bytes": 85799,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000071",
+      "status": "available",
+      "path": "data/portraits/E000071.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000071.jpg",
+      "sha256": "dd214f476be5c369fd0f02b6b595f832dc5513f2ba58ca7789ed7ee2a3054a4f",
+      "bytes": 76481,
+      "height": 241,
+      "width": 225
+    },
+    {
+      "id": "E000235",
+      "status": "available",
+      "path": "data/portraits/E000235.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000235.jpg",
+      "sha256": "64136877fe309e9cafbdd092930e20987354184bfd4379258f52a864b178ab3c",
+      "bytes": 83321,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000246",
+      "status": "available",
+      "path": "data/portraits/E000246.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000246.jpg",
+      "sha256": "37c10bbf5fc4a1324eb323d39b092623056bf3bb9ecbd8e9248dd516d4142e45",
+      "bytes": 71556,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000294",
+      "status": "available",
+      "path": "data/portraits/E000294.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000294.jpg",
+      "sha256": "56c6eea407a0e1fbe39458456630df0ee1afdf5a69d614a876fa5afe0e1e9678",
+      "bytes": 14001,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000295",
+      "status": "available",
+      "path": "data/portraits/E000295.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000295.jpg",
+      "sha256": "6ccf7abbe9a3cb1b78d0f72ab1faff34316c0f8d3dcd30ab9b10e91b219340b8",
+      "bytes": 19386,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000296",
+      "status": "available",
+      "path": "data/portraits/E000296.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000296.jpg",
+      "sha256": "27dcdfe153a751713275a41591fc2e4bff7896ab6320333dfb079cd340865893",
+      "bytes": 69261,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000297",
+      "status": "available",
+      "path": "data/portraits/E000297.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000297.jpg",
+      "sha256": "0a535546a4309235d6e9e0bea97418c810797d3bdff61c68440265e4e07a1f3b",
+      "bytes": 65377,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000298",
+      "status": "available",
+      "path": "data/portraits/E000298.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000298.jpg",
+      "sha256": "b6ad65208d327a349a00755da3ee5401a9641978f54b1cf83d5f0981df55bf39",
+      "bytes": 35993,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000299",
+      "status": "available",
+      "path": "data/portraits/E000299.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000299.jpg",
+      "sha256": "6dfc16585a374f0f43268e97d6b66a33d39cf5d57339a0c4e70e795923f896b0",
+      "bytes": 79785,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000300",
+      "status": "available",
+      "path": "data/portraits/E000300.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000300.jpg",
+      "sha256": "3f07519d9d99586d81e65bf2f05f9266dde4606c256a05b1a3fa2e98ca903e5a",
+      "bytes": 76542,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "E000301",
+      "status": "available",
+      "path": "data/portraits/E000301.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/E000301.jpg",
+      "sha256": "e5d854132b4d9d0c887d99c917818019db4797ddbc298f519f78fd32bd6ec59b",
+      "bytes": 94132,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000110",
+      "status": "available",
+      "path": "data/portraits/F000110.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000110.jpg",
+      "sha256": "448fc9bc407ec2c2c6dee8f9af4d8073b3a027b5b443241589018c5672a1cd56",
+      "bytes": 90795,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000246",
+      "status": "available",
+      "path": "data/portraits/F000246.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000246.jpg",
+      "sha256": "7e82d81747a99868fb68b1c2a51935ac7eb80f02a8d09078e93c4d85b5b6c41d",
+      "bytes": 44419,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "F000446",
+      "status": "available",
+      "path": "data/portraits/F000446.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000446.jpg",
+      "sha256": "6980fbdfb09d7fb6e1c141c6eaf41d75ef03585e334eb0146491d987d043944f",
+      "bytes": 18727,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "F000450",
+      "status": "available",
+      "path": "data/portraits/F000450.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000450.jpg",
+      "sha256": "e5274746987a397ffb7b66794289916933fc5bede435326881677f5227ce924f",
+      "bytes": 50020,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000454",
+      "status": "available",
+      "path": "data/portraits/F000454.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000454.jpg",
+      "sha256": "07ec8cb536e355cf8c08fad12ee829adbc77b19a0dfa22bbf273588f987cd44f",
+      "bytes": 54044,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000459",
+      "status": "available",
+      "path": "data/portraits/F000459.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000459.jpg",
+      "sha256": "5ef8f723948e99a24ff40db8e1c852e99bc7a8a22262c0c73a55dd8c26c9f0ce",
+      "bytes": 53717,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000462",
+      "status": "available",
+      "path": "data/portraits/F000462.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000462.jpg",
+      "sha256": "efe19f3dfe5a290915cdcda8a374f6e4f0accd5b0f22c60778138a943726d2c2",
+      "bytes": 53039,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000463",
+      "status": "available",
+      "path": "data/portraits/F000463.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000463.jpg",
+      "sha256": "e0b8c5e7caa081a7aea094c0df4d9a31390604ac2c894458c0b882684b2807e3",
+      "bytes": 47922,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000466",
+      "status": "available",
+      "path": "data/portraits/F000466.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000466.jpg",
+      "sha256": "ac4f0f77d054292fb0709d4ae06ad17a07f343d02c837f6337a1caa89b58ed46",
+      "bytes": 67157,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000468",
+      "status": "available",
+      "path": "data/portraits/F000468.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000468.jpg",
+      "sha256": "750b2de806344fc712092ea55f96b4ce2f1e1d2067a42a0601ed91fce7b83dd3",
+      "bytes": 38708,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000469",
+      "status": "available",
+      "path": "data/portraits/F000469.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000469.jpg",
+      "sha256": "058061a66b525c960fdcab5519590197ba46320b968ca81927f47f0119658bbf",
+      "bytes": 102642,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000470",
+      "status": "available",
+      "path": "data/portraits/F000470.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000470.jpg",
+      "sha256": "b63252d7b90565d70523c24d6c3bbe7b7adbcad33df1eb9f405dcf21c835e55f",
+      "bytes": 15019,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "F000471",
+      "status": "available",
+      "path": "data/portraits/F000471.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000471.jpg",
+      "sha256": "7d642067e63572f55d8b93540a44771fffacec77316b80778d4329780d246f9f",
+      "bytes": 81372,
+      "height": 238,
+      "width": 225
+    },
+    {
+      "id": "F000472",
+      "status": "available",
+      "path": "data/portraits/F000472.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000472.jpg",
+      "sha256": "8c7c916fb2ee1ade651c25f1f581eebefde59f76d0f6ec57fa0dfe7772d869bb",
+      "bytes": 57926,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "F000474",
+      "status": "available",
+      "path": "data/portraits/F000474.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000474.jpg",
+      "sha256": "525911bf13fd828b9735dba2927830abfa927f76275039928442f21bc8d54037",
+      "bytes": 91001,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000475",
+      "status": "available",
+      "path": "data/portraits/F000475.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000475.jpg",
+      "sha256": "7042beb82eb821830b518eec0781630a8797d82aca49b8ad667b8f8fbcc34c4b",
+      "bytes": 92523,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000476",
+      "status": "available",
+      "path": "data/portraits/F000476.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000476.jpg",
+      "sha256": "cc6180ae3d7b328da2e6b56ec794ede13de33ee9816ea78368598617daf822ce",
+      "bytes": 89609,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000477",
+      "status": "available",
+      "path": "data/portraits/F000477.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000477.jpg",
+      "sha256": "b3255c860c3a6b9c3be0de1f352555227bb8e09fb283ccd0d454e4bb25c5e7e4",
+      "bytes": 72470,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000478",
+      "status": "available",
+      "path": "data/portraits/F000478.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000478.jpg",
+      "sha256": "cc9ce4918cd48abe2238487f7b97861684d2bb35a577e4779217e5ed006daeb2",
+      "bytes": 64850,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000479",
+      "status": "available",
+      "path": "data/portraits/F000479.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000479.jpg",
+      "sha256": "21f968cd7bc54961e43a19b56d14173f4a9552838a3b6cd8e5384007d5dac444",
+      "bytes": 75246,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000480",
+      "status": "available",
+      "path": "data/portraits/F000480.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000480.jpg",
+      "sha256": "967d0422e7c7fd469aeb2565b26ed2bc22df15f9cffc70d3c45a52398c2d79c4",
+      "bytes": 82828,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000481",
+      "status": "available",
+      "path": "data/portraits/F000481.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000481.jpg",
+      "sha256": "5b891b8a46c319df2c53fc7e9681bdc6627f2772c65789362e7b6467e43f3de5",
+      "bytes": 84937,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000482",
+      "status": "available",
+      "path": "data/portraits/F000482.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000482.jpg",
+      "sha256": "22e9847b3b99957cef9a7568f60d994fde89a7d6e53078cc999b28081606a211",
+      "bytes": 91184,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000483",
+      "status": "available",
+      "path": "data/portraits/F000483.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000483.jpg",
+      "sha256": "1a8c8ff27df2b276196b3cbe5ef97474c544de83df587f5951cf39ca870361d2",
+      "bytes": 87432,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000484",
+      "status": "available",
+      "path": "data/portraits/F000484.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000484.jpg",
+      "sha256": "ab6e14dc4732e331455e1a8be636341edf283e9760509ee946d616d25a695443",
+      "bytes": 123819,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "F000485",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/F000485.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "G000386",
+      "status": "available",
+      "path": "data/portraits/G000386.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000386.jpg",
+      "sha256": "90785f9582d1f3fdeb718fd3defcb15657929ea5b54298fc9d3d3c134242e26f",
+      "bytes": 50976,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000546",
+      "status": "available",
+      "path": "data/portraits/G000546.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000546.jpg",
+      "sha256": "cdf7943cdbc93b323230b990b1460b2f0e588ba755604c2df6440858dae91221",
+      "bytes": 49396,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000553",
+      "status": "available",
+      "path": "data/portraits/G000553.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000553.jpg",
+      "sha256": "d0db688e666ea7be4ec82dfe9cc04d75c0c3c36f7edd11afcfd602594325de91",
+      "bytes": 66467,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000555",
+      "status": "available",
+      "path": "data/portraits/G000555.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000555.jpg",
+      "sha256": "97080c5c01a3e2f22e8c7f496a2410582e816617851f23749c8e4131d70fbbcd",
+      "bytes": 51538,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000558",
+      "status": "available",
+      "path": "data/portraits/G000558.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000558.jpg",
+      "sha256": "c4b4aac55d48252f1e41e149f9de980885c78006ce06e3e769853c633d65d3bc",
+      "bytes": 55921,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000559",
+      "status": "available",
+      "path": "data/portraits/G000559.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000559.jpg",
+      "sha256": "549152c4223a1a3691cce3c3013472524ec5e0f1df6db5f54a08ef03ea4f0b4a",
+      "bytes": 29920,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000565",
+      "status": "available",
+      "path": "data/portraits/G000565.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000565.jpg",
+      "sha256": "9fb03affcd0abb856521ea2097b150e549bfd030546c0b5093e7e09c0ba36b2e",
+      "bytes": 65373,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000568",
+      "status": "available",
+      "path": "data/portraits/G000568.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000568.jpg",
+      "sha256": "b105ed5c7866da79112d89413caf8ee7d550e365453ec36dab33fde877261cab",
+      "bytes": 43130,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000574",
+      "status": "available",
+      "path": "data/portraits/G000574.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000574.jpg",
+      "sha256": "25541f1d33f7b7facfb10a27b025a22b49fba4bddd08fbba354bdaf0cba71ff8",
+      "bytes": 14353,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000576",
+      "status": "available",
+      "path": "data/portraits/G000576.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000576.jpg",
+      "sha256": "849a15697c6084b41396aee2181fd51cc807e8a64ca3acfe921b1a8480a6b816",
+      "bytes": 13437,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000581",
+      "status": "available",
+      "path": "data/portraits/G000581.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000581.jpg",
+      "sha256": "7eda4fe06e5a9ef467a4f35acefe528b3b573d8b6ca7da6532c3ad92897eb8e5",
+      "bytes": 11110,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000583",
+      "status": "available",
+      "path": "data/portraits/G000583.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000583.jpg",
+      "sha256": "faee99dd40a0b6d5ae2c6022684cb3ef61c7e1c0d07bbd20a4f7638cc9d04e56",
+      "bytes": 64561,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000585",
+      "status": "available",
+      "path": "data/portraits/G000585.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000585.jpg",
+      "sha256": "46382ed44d37d41402d7bd38ff4638389e9e2e5f02278c8d1e626f548fa4cf2a",
+      "bytes": 27705,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000586",
+      "status": "available",
+      "path": "data/portraits/G000586.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000586.jpg",
+      "sha256": "d421808baecb57a35e5e7842b6068cbac412e1198f99418062422b39730fd15a",
+      "bytes": 83535,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000587",
+      "status": "available",
+      "path": "data/portraits/G000587.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000587.jpg",
+      "sha256": "a46db1e659b7e2f44c15bd5388a66760ea9e5eda29e79ab3879a4cef93f051b5",
+      "bytes": 17765,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000589",
+      "status": "available",
+      "path": "data/portraits/G000589.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000589.jpg",
+      "sha256": "34d3156adf79e6e3cca8f1ce96fac94092541c15c26c55fcbb69a2c35069ea3d",
+      "bytes": 57368,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000591",
+      "status": "available",
+      "path": "data/portraits/G000591.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000591.jpg",
+      "sha256": "df09cd9a8432d61275f11548b592f8654d9e38e5885b0533951a37bb835db0db",
+      "bytes": 16938,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000592",
+      "status": "available",
+      "path": "data/portraits/G000592.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000592.jpg",
+      "sha256": "9c5c1cfbb04646fc6f30f8e963346d3ae9e5c8e92e8fcfa524897de3e42b989d",
+      "bytes": 30417,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000593",
+      "status": "available",
+      "path": "data/portraits/G000593.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000593.jpg",
+      "sha256": "72102125902e34a05e4786bf6f510bd8552881b04e9918dcacf646fb3705a619",
+      "bytes": 78285,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "G000597",
+      "status": "available",
+      "path": "data/portraits/G000597.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000597.jpg",
+      "sha256": "80521b4ec75f02d7f5c4f082b21e3913de0db42a4ba285875e702fe8647550d8",
+      "bytes": 46306,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "G000598",
+      "status": "available",
+      "path": "data/portraits/G000598.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000598.jpg",
+      "sha256": "44ae20d0905c565e9ced89678299b4ec8ae182288f4dac9043d7c604f4834c41",
+      "bytes": 112280,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000599",
+      "status": "available",
+      "path": "data/portraits/G000599.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000599.jpg",
+      "sha256": "fb31de6b2045fdae49bfcedf59b8864abaf52c8a4cd8066f35c223cb0bc929ed",
+      "bytes": 64798,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000600",
+      "status": "available",
+      "path": "data/portraits/G000600.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000600.jpg",
+      "sha256": "1632c6a887037eec5a9e12a8f466c109c7d8eb6191887367df43c7597442aa8b",
+      "bytes": 86992,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000601",
+      "status": "available",
+      "path": "data/portraits/G000601.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000601.jpg",
+      "sha256": "98ccc298b391ad6577c392c83ab91f6ee96b18bc3739e172a49d5b77bcd1c5d4",
+      "bytes": 86464,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000602",
+      "status": "available",
+      "path": "data/portraits/G000602.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000602.jpg",
+      "sha256": "b6fba910f31dd3806fe09a782d69eb38e1f76757eb558945c9f33f7667bd9b86",
+      "bytes": 85764,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000603",
+      "status": "available",
+      "path": "data/portraits/G000603.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000603.jpg",
+      "sha256": "b23e20e894e28f08445f93f2cf3b6bf3211b0316e6f977a6aaca689c0943484b",
+      "bytes": 62259,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000604",
+      "status": "available",
+      "path": "data/portraits/G000604.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000604.jpg",
+      "sha256": "670471d61fd6305e51480de13424195c9003f051be4f15f90eca677b613cb23e",
+      "bytes": 67000,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000605",
+      "status": "available",
+      "path": "data/portraits/G000605.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000605.jpg",
+      "sha256": "e8f036f70e2306c5fadd4d1f5420b25ae6d54508541e524302f07859c6abf346",
+      "bytes": 62038,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "G000606",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000606.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "G000607",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000607.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "G000608",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/G000608.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "H000273",
+      "status": "available",
+      "path": "data/portraits/H000273.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H000273.jpg",
+      "sha256": "af0c3965eca17758e2fda5060927ba5251af249cc67836c3c53fc5bf6dd2d725",
+      "bytes": 92259,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "H000601",
+      "status": "available",
+      "path": "data/portraits/H000601.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H000601.jpg",
+      "sha256": "b783dac8ea57a85e1d0307eede53edd1278b9c02c0fe6e4a688392f4d2e14bbd",
+      "bytes": 11449,
+      "height": 275,
+      "width": 210
+    },
+    {
+      "id": "H000874",
+      "status": "available",
+      "path": "data/portraits/H000874.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H000874.jpg",
+      "sha256": "7740f211c90294ea9882a89d5fac5e1c27e53069349774fec3c751dc7f603fd3",
+      "bytes": 52493,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001042",
+      "status": "available",
+      "path": "data/portraits/H001042.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001042.jpg",
+      "sha256": "e93c6691deab877b85cbc61443f9f44bcc11e70a166f353518274d3311bd862b",
+      "bytes": 49727,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001046",
+      "status": "available",
+      "path": "data/portraits/H001046.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001046.jpg",
+      "sha256": "1e5f6c54619fdac63cf60bd94a6a9ecfe6bb14b6eb6f2b4f02fe11c50d1f04ef",
+      "bytes": 48573,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001047",
+      "status": "available",
+      "path": "data/portraits/H001047.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001047.jpg",
+      "sha256": "5e49e54df0f230911c5aebd0764fbcc5ecfd43264a16f7101478d5342df4720d",
+      "bytes": 52515,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001052",
+      "status": "available",
+      "path": "data/portraits/H001052.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001052.jpg",
+      "sha256": "62627515375f64e5b4cbb804e43a4fad8500927b3e200fe6e602a050503e5267",
+      "bytes": 50054,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001058",
+      "status": "available",
+      "path": "data/portraits/H001058.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001058.jpg",
+      "sha256": "cef0635ce6799c97991cd96f51a6e4c2a18cd90be206db842ba2b83cc8e6dd27",
+      "bytes": 45693,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001061",
+      "status": "available",
+      "path": "data/portraits/H001061.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001061.jpg",
+      "sha256": "b38c1d44809389862b34ff37ef098e3d15c0283d0988e604377f0d2f8d5affc6",
+      "bytes": 45570,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001066",
+      "status": "available",
+      "path": "data/portraits/H001066.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001066.jpg",
+      "sha256": "1af4e8fc1ca90dabbee0a1d565771683e3606c563395e4b77ba1ec16fb564596",
+      "bytes": 61117,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001067",
+      "status": "available",
+      "path": "data/portraits/H001067.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001067.jpg",
+      "sha256": "dbbd62f594f630674a5663cdd004de7c2c8ae699882f854a1060ad2cca47ca64",
+      "bytes": 51375,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001068",
+      "status": "available",
+      "path": "data/portraits/H001068.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001068.jpg",
+      "sha256": "0763350508101592615e31a30f1bd1ba1e2207453a3e91f286b68de3a84cde2a",
+      "bytes": 23402,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001072",
+      "status": "available",
+      "path": "data/portraits/H001072.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001072.jpg",
+      "sha256": "8f5526de8c1fada9df02e10899b4c50fe2b1fb5f4202b73d624c5b78345dab27",
+      "bytes": 16548,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001076",
+      "status": "available",
+      "path": "data/portraits/H001076.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001076.jpg",
+      "sha256": "2a7e86998588166ffa0cd7689ba66dd4a8d64ea9bbc7241ac4484ff4a190539f",
+      "bytes": 187264,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001077",
+      "status": "available",
+      "path": "data/portraits/H001077.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001077.jpg",
+      "sha256": "93826b1197c4df62ce0626d1948712f99d67c920c416f7bb49b3acde72fdee0d",
+      "bytes": 11192,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001079",
+      "status": "available",
+      "path": "data/portraits/H001079.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001079.jpg",
+      "sha256": "b92ee719e1413c20f276894eb1fca6ddfe0db4a7d24be4296874f752fbd5d422",
+      "bytes": 8788,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001081",
+      "status": "available",
+      "path": "data/portraits/H001081.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001081.jpg",
+      "sha256": "881aca7f26cb140986d6e38e28d52edf24220b5d11518cbdd7342e2ff0a357ca",
+      "bytes": 68499,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001082",
+      "status": "available",
+      "path": "data/portraits/H001082.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001082.jpg",
+      "sha256": "dc8a64c8e764f8cb320df9ff879edcb9b2011e1a63eed4be6cf9c525726d4a0c",
+      "bytes": 89818,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001085",
+      "status": "available",
+      "path": "data/portraits/H001085.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001085.jpg",
+      "sha256": "3aaa0cb87d0e7174d9c80a22776ed2d752d4a25394264e25c2313b7da8101724",
+      "bytes": 76887,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001086",
+      "status": "available",
+      "path": "data/portraits/H001086.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001086.jpg",
+      "sha256": "d462875bd53f376c86aca13250f5b3a11483d1826c45edc93bc4a48b36770ab2",
+      "bytes": 10697,
+      "height": 150,
+      "width": 225
+    },
+    {
+      "id": "H001089",
+      "status": "available",
+      "path": "data/portraits/H001089.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001089.jpg",
+      "sha256": "a7c01da210d847834e73b42a178d4cc550b0c3111db4c36a7348553287bab960",
+      "bytes": 24716,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001090",
+      "status": "available",
+      "path": "data/portraits/H001090.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001090.jpg",
+      "sha256": "bb77f586b1853cdf17ec55e36517af8cd3aa95e74b49f339efa3e293b92e2311",
+      "bytes": 75767,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001091",
+      "status": "available",
+      "path": "data/portraits/H001091.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001091.jpg",
+      "sha256": "d5fa346010fe55d11406a696034b760302208abe1cbef4b89d29951cefe53dde",
+      "bytes": 10788,
+      "height": 225,
+      "width": 225
+    },
+    {
+      "id": "H001093",
+      "status": "available",
+      "path": "data/portraits/H001093.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001093.jpg",
+      "sha256": "34ee1d31c031855fe6252aa2f72740c3d2ed0978110c5f7508c1d6063100b4e1",
+      "bytes": 91385,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001094",
+      "status": "available",
+      "path": "data/portraits/H001094.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001094.jpg",
+      "sha256": "507003eafb9a453337b59089479704fbfe0d6d6f8c98db1ad994167399e55841",
+      "bytes": 111991,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001095",
+      "status": "available",
+      "path": "data/portraits/H001095.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001095.jpg",
+      "sha256": "93a78590dcacf15083ef597821cd1154a6bd436d4937952c3fa77a9fe7ecf766",
+      "bytes": 108745,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001096",
+      "status": "available",
+      "path": "data/portraits/H001096.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001096.jpg",
+      "sha256": "8088c14c688d70b5deb26f2c39f805d030e7f52ddd96fb0f2998467d31ea16f2",
+      "bytes": 63891,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001098",
+      "status": "available",
+      "path": "data/portraits/H001098.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001098.jpg",
+      "sha256": "0ebc9c1f5884b68addadf3bb2df593a889d5b9038f2dbf802bcf2e2ac08ff194",
+      "bytes": 84418,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001099",
+      "status": "available",
+      "path": "data/portraits/H001099.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001099.jpg",
+      "sha256": "a9e18e72a9dfd19f338cc9e92e67787361d43c66a3b257dd9911dda183723c0e",
+      "bytes": 90861,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001100",
+      "status": "available",
+      "path": "data/portraits/H001100.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001100.jpg",
+      "sha256": "b14837a8c50d1c57ec394c253a353e24a172e44bf46ea6049031972ce8361f25",
+      "bytes": 82384,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001101",
+      "status": "available",
+      "path": "data/portraits/H001101.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001101.jpg",
+      "sha256": "157f9b00725076513d30b3c1f2ea07853e0df80cc1bc055fcef5e41f6817ace1",
+      "bytes": 78435,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001102",
+      "status": "available",
+      "path": "data/portraits/H001102.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001102.jpg",
+      "sha256": "665e821866edbe5dea68c833ef07f448fa0bbabf689c79b21ccbcd7a12b3d81d",
+      "bytes": 82722,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001103",
+      "status": "available",
+      "path": "data/portraits/H001103.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001103.jpg",
+      "sha256": "b815d8dd867406b0545fd1359b343ff669320453142458c15fce9a226c7b6a3c",
+      "bytes": 80306,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "H001104",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/H001104.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "I000056",
+      "status": "available",
+      "path": "data/portraits/I000056.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/I000056.jpg",
+      "sha256": "80645ae80781cc52fb35d61ff3369e4d3ba2d41440e0423b6db4c9c1ff30dede",
+      "bytes": 53325,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "I000058",
+      "status": "available",
+      "path": "data/portraits/I000058.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/I000058.jpg",
+      "sha256": "2b874798f042b47446d50e5cee7f4a9b11c696decfe89fe1710e42417779b3d5",
+      "bytes": 125450,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000288",
+      "status": "available",
+      "path": "data/portraits/J000288.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000288.jpg",
+      "sha256": "cb6ddeb00b5c2d75c7e319475152ea5fbe6bf017068e4236a6684d307e2d7662",
+      "bytes": 23192,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000289",
+      "status": "available",
+      "path": "data/portraits/J000289.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000289.jpg",
+      "sha256": "96a8b39d0fbead9479a722bb022bfa2f96787d2d54ea989082fa8008edc5d98f",
+      "bytes": 22349,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000293",
+      "status": "available",
+      "path": "data/portraits/J000293.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000293.jpg",
+      "sha256": "d0cca466a9f7e8fa3f59c204502b5aa3f988f2cd8c5a892377074c88adc86c34",
+      "bytes": 45973,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000294",
+      "status": "available",
+      "path": "data/portraits/J000294.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000294.jpg",
+      "sha256": "2e46b132c78b7702f86c8be996a64b6b075e1e433207218b39590744c37aef48",
+      "bytes": 20494,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000295",
+      "status": "available",
+      "path": "data/portraits/J000295.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000295.jpg",
+      "sha256": "0eb8fcb9930fd97820be4b7fbbebeb7ac7445f26dcb39a903c2c9542c344904d",
+      "bytes": 52123,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000298",
+      "status": "available",
+      "path": "data/portraits/J000298.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000298.jpg",
+      "sha256": "62d574037cd327e784c8abcb39a0af2d6c673ae91d6d0b338121ec23c852c660",
+      "bytes": 55181,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000299",
+      "status": "available",
+      "path": "data/portraits/J000299.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000299.jpg",
+      "sha256": "055e775ead499978a50fab264c8782a7fc3030cfa29afa7b40ce696b5ea47c64",
+      "bytes": 51508,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000301",
+      "status": "available",
+      "path": "data/portraits/J000301.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000301.jpg",
+      "sha256": "33137ee17ad945cd0acc425af1b56e7b3f80127eb0f743e7f1eeaf5b0e88d970",
+      "bytes": 90850,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000302",
+      "status": "available",
+      "path": "data/portraits/J000302.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000302.jpg",
+      "sha256": "18f1bcb27d6727de031581f89abe5cb77fc22c88a008b042868ac871891da21b",
+      "bytes": 8251,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000304",
+      "status": "available",
+      "path": "data/portraits/J000304.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000304.jpg",
+      "sha256": "3fe1403f75c9f5ee2d01a6410ab4385ac3f0850233800ee093b906c544f0d4ec",
+      "bytes": 36200,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "J000305",
+      "status": "available",
+      "path": "data/portraits/J000305.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000305.jpg",
+      "sha256": "5c85d377b20d7762392c89b3386a5e391f9ffab1e800ab17813a3ecd941c9fa2",
+      "bytes": 27648,
+      "height": 266,
+      "width": 225
+    },
+    {
+      "id": "J000307",
+      "status": "available",
+      "path": "data/portraits/J000307.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000307.jpg",
+      "sha256": "15a4844d1b00e13dd35b74832a0fe7543b97f77faab77b99357200a499a9b453",
+      "bytes": 78085,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000309",
+      "status": "available",
+      "path": "data/portraits/J000309.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000309.jpg",
+      "sha256": "bb31208dfaf46e4e1a6bea795988c46714564b4e2423a759b8748cf6cf82b16f",
+      "bytes": 85087,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000310",
+      "status": "available",
+      "path": "data/portraits/J000310.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000310.jpg",
+      "sha256": "be9d6d21c54c4a79a7a41763d35e99cdfebd799f491823024705d9844d9e017f",
+      "bytes": 94973,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000311",
+      "status": "available",
+      "path": "data/portraits/J000311.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000311.jpg",
+      "sha256": "c972a50d89b9b174a9a3cda269ab1b062087d7eef975157eaa69f5a445324244",
+      "bytes": 62250,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "J000312",
+      "status": "available",
+      "path": "data/portraits/J000312.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/J000312.jpg",
+      "sha256": "d7ccdcb6fb94f9423176f804d8b27617cea94a38ed35ee6718df8e2508607ce6",
+      "bytes": 88814,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000009",
+      "status": "available",
+      "path": "data/portraits/K000009.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000009.jpg",
+      "sha256": "864508cbde5ea42888f25ff6af911cf6bd864f3fb01b6e423ac812f378ecdc1b",
+      "bytes": 57167,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000367",
+      "status": "available",
+      "path": "data/portraits/K000367.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000367.jpg",
+      "sha256": "e76ec1628f14ca4bfffb130b578235f888b1e9981c24d87135a44c0afc0f8c41",
+      "bytes": 54769,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000375",
+      "status": "available",
+      "path": "data/portraits/K000375.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000375.jpg",
+      "sha256": "86eb06da12106ceeea590a830127ad35580dac4eb5dd12a034c9662a89cf1168",
+      "bytes": 57493,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000376",
+      "status": "available",
+      "path": "data/portraits/K000376.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000376.jpg",
+      "sha256": "45ccfa8b1e2425e60cc9b5862ffbdd6348b3839e6dfded8a2720ea11ef8b12c3",
+      "bytes": 44917,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000377",
+      "status": "available",
+      "path": "data/portraits/K000377.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000377.jpg",
+      "sha256": "3eb51ad82a76d129258e412329166c2ce23d356c04f78350f93650746ece0cb7",
+      "bytes": 15749,
+      "height": 275,
+      "width": 205
+    },
+    {
+      "id": "K000383",
+      "status": "available",
+      "path": "data/portraits/K000383.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000383.jpg",
+      "sha256": "bb4aada09a7de82635cd2d5554d7e4e021a7f5e7d46de99023c576ca77584bc1",
+      "bytes": 48597,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000384",
+      "status": "available",
+      "path": "data/portraits/K000384.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000384.jpg",
+      "sha256": "ca4b9142a55bb6560b1af251e50c95a1ed535041de215cc3b89168f2738efde6",
+      "bytes": 49829,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000385",
+      "status": "available",
+      "path": "data/portraits/K000385.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000385.jpg",
+      "sha256": "17f4d3b03facc06a82a62a6843fdbde17150dce8373a877f822534ee0453e251",
+      "bytes": 66960,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000388",
+      "status": "available",
+      "path": "data/portraits/K000388.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000388.jpg",
+      "sha256": "92dd631ea7396d79d6613d1cd3c51c193c532093bc8ad14420563b0344f7bcef",
+      "bytes": 52230,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000389",
+      "status": "available",
+      "path": "data/portraits/K000389.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000389.jpg",
+      "sha256": "8947a627efacb7da27e8afcc6613072f7b9cf5a9c276f634fa3475a749fa1da3",
+      "bytes": 68795,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000391",
+      "status": "available",
+      "path": "data/portraits/K000391.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000391.jpg",
+      "sha256": "1512ca4ceb40e2e179903ff673243e8faa4446c2802842072f3294add41089d8",
+      "bytes": 52057,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000392",
+      "status": "available",
+      "path": "data/portraits/K000392.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000392.jpg",
+      "sha256": "1438398685d1864138b23a5b1e2e48435d1fb72916b5cf81c0377357d89e82a6",
+      "bytes": 58812,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000393",
+      "status": "available",
+      "path": "data/portraits/K000393.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000393.jpg",
+      "sha256": "7538e3e3339ae980cb230dc597dfbf4e64f5ba4adabbe14271939560e241704e",
+      "bytes": 55724,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000394",
+      "status": "available",
+      "path": "data/portraits/K000394.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000394.jpg",
+      "sha256": "fecca0717af273b09e7ba3ae3bfcdf79e294455563efe22ac06797922c331b9e",
+      "bytes": 71396,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000397",
+      "status": "available",
+      "path": "data/portraits/K000397.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000397.jpg",
+      "sha256": "a0149a0557c2328cd0ef164f2863feddb9d2782c3a0f4135631d37424d550819",
+      "bytes": 76439,
+      "height": 273,
+      "width": 225
+    },
+    {
+      "id": "K000398",
+      "status": "available",
+      "path": "data/portraits/K000398.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000398.jpg",
+      "sha256": "bacb2737e8d1c6e90f48fd8c635a16a8efda5bfc0912390723176510ca0ca975",
+      "bytes": 65534,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000399",
+      "status": "available",
+      "path": "data/portraits/K000399.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000399.jpg",
+      "sha256": "f172a3c9aac84370c2c552b7c50da409967397346845018c940316d2fb74194d",
+      "bytes": 104497,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000400",
+      "status": "available",
+      "path": "data/portraits/K000400.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000400.jpg",
+      "sha256": "f17a98de5546dec0fcd39deaeefde59f003c6ed7ccd940de58586b42c413b052",
+      "bytes": 118941,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000401",
+      "status": "available",
+      "path": "data/portraits/K000401.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000401.jpg",
+      "sha256": "8562cf76b13c8d2bbcd288cdba99250bfbd847cadbdcbdcb7264e4d51784d0ce",
+      "bytes": 88119,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000402",
+      "status": "available",
+      "path": "data/portraits/K000402.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000402.jpg",
+      "sha256": "096a89cc4ccb62bfc1e888b860b359d63387eb5f96bbac066b80e64978b8681d",
+      "bytes": 71986,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000403",
+      "status": "available",
+      "path": "data/portraits/K000403.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000403.jpg",
+      "sha256": "0fcf18eb40dc6b59135490bc018fd1c175e3d8aaab597dc31168d69aea76e494",
+      "bytes": 69047,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000404",
+      "status": "available",
+      "path": "data/portraits/K000404.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000404.jpg",
+      "sha256": "cb4ebbfb665dede2a902e8e41fdbea068b3b56d8b4a921ef58fc754dcf5c30dc",
+      "bytes": 67397,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "K000405",
+      "status": "available",
+      "path": "data/portraits/K000405.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/K000405.jpg",
+      "sha256": "49cc5c64e247bf4ba705180504fb9c2c16a091d4985596b175d02b9a6d87ade6",
+      "bytes": 81222,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000273",
+      "status": "available",
+      "path": "data/portraits/L000273.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000273.jpg",
+      "sha256": "225b2e97017c7cf1203ac40dc937754103c40d7744a8fae14c06661d4a351c52",
+      "bytes": 22802,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "L000397",
+      "status": "available",
+      "path": "data/portraits/L000397.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000397.jpg",
+      "sha256": "3db9d09b2456f8984de8bc05d7c500014bc5c7c0254958081be4edf734564198",
+      "bytes": 55857,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000491",
+      "status": "available",
+      "path": "data/portraits/L000491.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000491.jpg",
+      "sha256": "9123ca11272ae49f2cd288567bb787852c3a5193c2e3154826a908e239a47906",
+      "bytes": 46902,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000557",
+      "status": "available",
+      "path": "data/portraits/L000557.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000557.jpg",
+      "sha256": "aa0f25eed96c4500e061334bd0cb2dda8c54002a9b149612788fa655ff93be28",
+      "bytes": 49510,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000560",
+      "status": "available",
+      "path": "data/portraits/L000560.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000560.jpg",
+      "sha256": "734fbfbb581801892841568834daddfa49fa073f9779cd98b2830b5dd8c193f2",
+      "bytes": 44556,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000562",
+      "status": "available",
+      "path": "data/portraits/L000562.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000562.jpg",
+      "sha256": "0c09c88adab3c88ea237d741ae4aab6773b0c70c0a6c2d7ba957fe22628cd8c0",
+      "bytes": 51812,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000566",
+      "status": "available",
+      "path": "data/portraits/L000566.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000566.jpg",
+      "sha256": "0fda09aac0355e4382c08e3adb38ed1d9bef125d9f7e2687ad7324b659ee9d23",
+      "bytes": 50831,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000570",
+      "status": "available",
+      "path": "data/portraits/L000570.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000570.jpg",
+      "sha256": "c6143c13afa39a1b113fece7849125e62a798a7144321ca04103cf6df70b5d97",
+      "bytes": 15407,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000571",
+      "status": "available",
+      "path": "data/portraits/L000571.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000571.jpg",
+      "sha256": "631046fb770a2be5adb19b5605af23c965a9344917456fb3fe8ead33c1c8fc4b",
+      "bytes": 54964,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000575",
+      "status": "available",
+      "path": "data/portraits/L000575.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000575.jpg",
+      "sha256": "8b143fabb811079bae30095f8fe241c23ffe4f19d3c3e9555702d181887ed7ec",
+      "bytes": 49658,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000577",
+      "status": "available",
+      "path": "data/portraits/L000577.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000577.jpg",
+      "sha256": "f674f95c878df5325d2f02b079024e7b8216a3a0df5ddf44b6f7668d61abf61c",
+      "bytes": 45313,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000582",
+      "status": "available",
+      "path": "data/portraits/L000582.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000582.jpg",
+      "sha256": "d3bc8e99d7d369d7f1c5931d81b247ece2a4d8c5c46081282fc157ef03dc4fca",
+      "bytes": 14070,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000583",
+      "status": "available",
+      "path": "data/portraits/L000583.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000583.jpg",
+      "sha256": "d925d58c2c62c9641014ce9413e58bb54062e13827ea8fea8864cf5a1c93382b",
+      "bytes": 14637,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000585",
+      "status": "available",
+      "path": "data/portraits/L000585.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000585.jpg",
+      "sha256": "6cf3236cada579def8937f2fc8abf6da8b4599cfca1dda4d6b085ada08565487",
+      "bytes": 122998,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000590",
+      "status": "available",
+      "path": "data/portraits/L000590.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000590.jpg",
+      "sha256": "f956e2cb59f79c9d33a4d78a0b95313dd14862964bd246310357740df0309972",
+      "bytes": 59749,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000593",
+      "status": "available",
+      "path": "data/portraits/L000593.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000593.jpg",
+      "sha256": "98e352c0bcf1220de9e81e4302b9c17d988d666bd2baadfa5f957ce6c2135f15",
+      "bytes": 65529,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000595",
+      "status": "available",
+      "path": "data/portraits/L000595.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000595.jpg",
+      "sha256": "ae350166fe5b0ff7fbdd2ddc8d59271fbde62ae8acabb43555de85af9c82b0f0",
+      "bytes": 13113,
+      "height": 150,
+      "width": 225
+    },
+    {
+      "id": "L000596",
+      "status": "available",
+      "path": "data/portraits/L000596.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000596.jpg",
+      "sha256": "d2359c5ffdcb842c419f30b87fafe0def75d1627149d0574da2c01efbfc94220",
+      "bytes": 63001,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000597",
+      "status": "available",
+      "path": "data/portraits/L000597.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000597.jpg",
+      "sha256": "664838f246177beeba847639c44a237c32e1344403594d4df012f161fd1bb4e7",
+      "bytes": 104244,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000598",
+      "status": "available",
+      "path": "data/portraits/L000598.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000598.jpg",
+      "sha256": "797dae96f00684b29561c6b36f57e24143659f0e7a7b5cbe1859d455e46ed8f0",
+      "bytes": 67951,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000599",
+      "status": "available",
+      "path": "data/portraits/L000599.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000599.jpg",
+      "sha256": "f5fc218a51ec63fc20ddf933180cabd00a560b62e068bc36a7454bf400b123ef",
+      "bytes": 63753,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000600",
+      "status": "available",
+      "path": "data/portraits/L000600.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000600.jpg",
+      "sha256": "74d95682d902da913ac8f25bed2d2a95a1379d442a4689ed51cd57536d03687d",
+      "bytes": 91253,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000601",
+      "status": "available",
+      "path": "data/portraits/L000601.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000601.jpg",
+      "sha256": "bf0c48ab6140e01f40076cb745c02da04326070ca89f19e9e0f2f4e0a21c45a6",
+      "bytes": 33775,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000602",
+      "status": "available",
+      "path": "data/portraits/L000602.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000602.jpg",
+      "sha256": "b1a521f38f2106b5371dcbdff7cc990234122f98794d0d91a96a9291fb474f9c",
+      "bytes": 84440,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000603",
+      "status": "available",
+      "path": "data/portraits/L000603.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000603.jpg",
+      "sha256": "292f0e44a2143463decc3f20f5ad43d01f887544aa0c20f422dde1e1adb06470",
+      "bytes": 94853,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000606",
+      "status": "available",
+      "path": "data/portraits/L000606.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000606.jpg",
+      "sha256": "b773d8c728c2dafb9f577d9bfd63a4166a54d0bec72ede0302b36474e6ec133f",
+      "bytes": 77564,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "L000607",
+      "status": "available",
+      "path": "data/portraits/L000607.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/L000607.jpg",
+      "sha256": "a0db32bfba05bcc8b93b6bb25c31824195ec03967927422b1b989988fe64d81b",
+      "bytes": 65560,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M000133",
+      "status": "available",
+      "path": "data/portraits/M000133.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M000133.jpg",
+      "sha256": "a7d051c85bd5e7d0b51632f413a11fd31cdd328bdc94d11d3d6d12b685d9d0b7",
+      "bytes": 49532,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M000194",
+      "status": "available",
+      "path": "data/portraits/M000194.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M000194.jpg",
+      "sha256": "011323c3158a16ee47f8caf9ae071498e23970045ce1785f16e92e7a44713a94",
+      "bytes": 16884,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "M000312",
+      "status": "available",
+      "path": "data/portraits/M000312.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M000312.jpg",
+      "sha256": "506bb26a5574a012253bfbc7a81a758956d8d87eb4b1d85fd846f5a03c24c011",
+      "bytes": 49788,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M000317",
+      "status": "available",
+      "path": "data/portraits/M000317.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M000317.jpg",
+      "sha256": "b394f9134515061998aa35711ca3170b1b781f92e35bba18450b135e1496609b",
+      "bytes": 79918,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "M000355",
+      "status": "available",
+      "path": "data/portraits/M000355.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M000355.jpg",
+      "sha256": "abe3a266d1c73c8f5c062d1b589c64da23b1e3e36f31b312bea6b55243e86635",
+      "bytes": 46617,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M000687",
+      "status": "available",
+      "path": "data/portraits/M000687.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M000687.jpg",
+      "sha256": "a5db0915215fd5838acbe12e56197d66a0a739de2edad405ed5513da0d4133b7",
+      "bytes": 60429,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M000871",
+      "status": "available",
+      "path": "data/portraits/M000871.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M000871.jpg",
+      "sha256": "8a53034034deaca681b669d0eeebd401db99d48e44274ad213cc0814391dddbd",
+      "bytes": 68420,
+      "height": 275,
+      "width": 183
+    },
+    {
+      "id": "M000934",
+      "status": "available",
+      "path": "data/portraits/M000934.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M000934.jpg",
+      "sha256": "4c2de33c01eda79e866098e58bc82f58beae6c37899d6545048caa1490ccd1c7",
+      "bytes": 50957,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001111",
+      "status": "available",
+      "path": "data/portraits/M001111.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001111.jpg",
+      "sha256": "f6adbcd81fa60a1f16ad870a21b19ff69ebba9bf785c595db9097e3bcd3f4e95",
+      "bytes": 49736,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001136",
+      "status": "available",
+      "path": "data/portraits/M001136.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001136.jpg",
+      "sha256": "0ce75fcbd917327657317e23f6a342fccacffdb4de8c209c6b29dd589941fb39",
+      "bytes": 12549,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "M001137",
+      "status": "available",
+      "path": "data/portraits/M001137.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001137.jpg",
+      "sha256": "8159609be2db25225af330dcb37486005a0a13e9375e7f40c7fae072e74c6df2",
+      "bytes": 50579,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001143",
+      "status": "available",
+      "path": "data/portraits/M001143.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001143.jpg",
+      "sha256": "64ff2dce09f426cd07123851df67cca75d9a5488a2a4131284715e522339aae6",
+      "bytes": 54984,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001153",
+      "status": "available",
+      "path": "data/portraits/M001153.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001153.jpg",
+      "sha256": "d3de73827c808b1ecae98c3c9aa04c21355754d267218d6d2cd6d4560dcd6440",
+      "bytes": 55617,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001157",
+      "status": "available",
+      "path": "data/portraits/M001157.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001157.jpg",
+      "sha256": "8014e5cfdd2a18d1690c30c01f77f4dd40f3b63576505f404e0a2d71a866d530",
+      "bytes": 46672,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001160",
+      "status": "available",
+      "path": "data/portraits/M001160.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001160.jpg",
+      "sha256": "f0f70b20a51b9e6c62b3f496b6a39635f9f6a29f9fe7e5d5c8fd1a8d269a289f",
+      "bytes": 43269,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001163",
+      "status": "available",
+      "path": "data/portraits/M001163.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001163.jpg",
+      "sha256": "ceb05a58f65f45af7900e5fcb4c7b78b7a6bffda78fb3698296779dce1ffbaa4",
+      "bytes": 47710,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001169",
+      "status": "available",
+      "path": "data/portraits/M001169.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001169.jpg",
+      "sha256": "f6c417560ce9d4f12a6c90ebbd3323ba115acebe96bbb8f6a054331b80b37297",
+      "bytes": 51757,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001176",
+      "status": "available",
+      "path": "data/portraits/M001176.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001176.jpg",
+      "sha256": "b2facf62a7ec1bd1380c69012016fb1197310647dba23d5bc445687c412827a3",
+      "bytes": 17896,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001177",
+      "status": "available",
+      "path": "data/portraits/M001177.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001177.jpg",
+      "sha256": "89e3b004d885af4f5964e58c0c4e6ae754e7380c5e38cac15bd3ca8203f32204",
+      "bytes": 48888,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001184",
+      "status": "available",
+      "path": "data/portraits/M001184.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001184.jpg",
+      "sha256": "0af2d1ee3455ae9df6a8d0728dc5bed4a71a604bff0b279195b42344ddce7cc5",
+      "bytes": 15657,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001188",
+      "status": "available",
+      "path": "data/portraits/M001188.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001188.jpg",
+      "sha256": "cb634ac260183f4c7ec350b85041eaf7ced05fca110ed0442369184208c26a27",
+      "bytes": 53169,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001194",
+      "status": "available",
+      "path": "data/portraits/M001194.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001194.jpg",
+      "sha256": "d47d7d5dca6f9841e5113e48d5e6fd39e3daf0f8cea551e152799551c6527aad",
+      "bytes": 13439,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001196",
+      "status": "available",
+      "path": "data/portraits/M001196.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001196.jpg",
+      "sha256": "c542dafe3a98394d08b22d9e88cdc4aa207668dc8f1ab0b2bf81ac588e024f45",
+      "bytes": 14772,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001198",
+      "status": "available",
+      "path": "data/portraits/M001198.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001198.jpg",
+      "sha256": "4e01cbf652940f8973c2bac8218ef0514a1b03d3a94bff4aef2c4ce5e2c55d8b",
+      "bytes": 48582,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001199",
+      "status": "available",
+      "path": "data/portraits/M001199.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001199.jpg",
+      "sha256": "7bd42776255b06c78617c895b6b08d684761cfadebf853415b92775c6052cf62",
+      "bytes": 64557,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001204",
+      "status": "available",
+      "path": "data/portraits/M001204.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001204.jpg",
+      "sha256": "2e86b9cd381be75549d594883beaf35f33b97ce9488fb13e115a0ff6491a22ba",
+      "bytes": 32250,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001205",
+      "status": "available",
+      "path": "data/portraits/M001205.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001205.jpg",
+      "sha256": "a6f7da3891a7b6b890fc4e065a44784e19283fa5c35fb639170a550bdd2e89a3",
+      "bytes": 166438,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001206",
+      "status": "available",
+      "path": "data/portraits/M001206.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001206.jpg",
+      "sha256": "fd446ac501e7a3938d4d0f4befeafd3a4b7f427d8e2e67e62c42e32c6e4bd36e",
+      "bytes": 47026,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001208",
+      "status": "available",
+      "path": "data/portraits/M001208.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001208.jpg",
+      "sha256": "231d232a67a3fa2be2f7e4e32576e5a6df1f8f3254ef6da3d81c1312cb3ecf9a",
+      "bytes": 61971,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001210",
+      "status": "available",
+      "path": "data/portraits/M001210.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001210.jpg",
+      "sha256": "00ce3787c7b9a92fdb166acdecf846f9bafed7880e35b7e9da71c785bc636fdd",
+      "bytes": 48894,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001211",
+      "status": "available",
+      "path": "data/portraits/M001211.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001211.jpg",
+      "sha256": "8ab9de47fafeeb98f0eaa1010ca32449cfb7c4230e81dc663e5dd089d2ec29d7",
+      "bytes": 11360,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "M001212",
+      "status": "available",
+      "path": "data/portraits/M001212.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001212.jpg",
+      "sha256": "131b23775a100fb32a5bd1c6d682fd3fe53aebdbd24bf4ffe6db4bed6c8f07fd",
+      "bytes": 44373,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "M001213",
+      "status": "available",
+      "path": "data/portraits/M001213.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001213.jpg",
+      "sha256": "b82ab1f96284709acafa88cf8798aa360be0b20d64637e83c58e48b3242a6157",
+      "bytes": 47617,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "M001214",
+      "status": "available",
+      "path": "data/portraits/M001214.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001214.jpg",
+      "sha256": "a0c33fd720b54d1ad45c25e4ff69bf41d590b615c9a2cba9b88ba1a2588ff16d",
+      "bytes": 43562,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "M001215",
+      "status": "available",
+      "path": "data/portraits/M001215.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001215.jpg",
+      "sha256": "77fe245a0c6ae7ea034347f83e79e277dcb6426d7bade04e5318620dee1ff5f2",
+      "bytes": 14654,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "M001216",
+      "status": "available",
+      "path": "data/portraits/M001216.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001216.jpg",
+      "sha256": "fe65002d9ae9b08606cbe6482a8cc32b8a1424de7c3f8958eec5280544dc79c9",
+      "bytes": 91955,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001217",
+      "status": "available",
+      "path": "data/portraits/M001217.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001217.jpg",
+      "sha256": "1dcecd6ed51765063676673febd4520d46283254c91f2b38c996a2c4c2d882e3",
+      "bytes": 56900,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001218",
+      "status": "available",
+      "path": "data/portraits/M001218.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001218.jpg",
+      "sha256": "213553df2323fe4edc8706de8a8e2c0ace703f2ac2817d2944b006801f139b62",
+      "bytes": 96297,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001219",
+      "status": "available",
+      "path": "data/portraits/M001219.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001219.jpg",
+      "sha256": "378acf6cb3fcac4d18d960204006ecb927ed59c9e23e9a2145ca732d9b19c261",
+      "bytes": 120115,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001220",
+      "status": "available",
+      "path": "data/portraits/M001220.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001220.jpg",
+      "sha256": "75648a634a1940c7991dab64d7fa2859fd794cae77b05e67fbbf37258ff247f5",
+      "bytes": 85224,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001222",
+      "status": "available",
+      "path": "data/portraits/M001222.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001222.jpg",
+      "sha256": "485bae664be0347cb629fb7117f5b79e0516b3bb2c4582a70d7768595e4dd5a8",
+      "bytes": 55994,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001223",
+      "status": "available",
+      "path": "data/portraits/M001223.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001223.jpg",
+      "sha256": "578d0b8b981ab87e2d692b795c3d4ac2add29171bb5166e130ffb214d923966d",
+      "bytes": 87963,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001224",
+      "status": "available",
+      "path": "data/portraits/M001224.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001224.jpg",
+      "sha256": "22eee60c033e96c2b55511a80c507922af560b4e1604f8d64dfabca6dd3e6070",
+      "bytes": 89791,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001225",
+      "status": "available",
+      "path": "data/portraits/M001225.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001225.jpg",
+      "sha256": "98f6f608f90a5f1bdff59415ac8921ac45ab1a9af179a35e04d7ec085462f460",
+      "bytes": 95716,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001226",
+      "status": "available",
+      "path": "data/portraits/M001226.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001226.jpg",
+      "sha256": "31a7e307588f2690e87eee0ffa80235b406afe449e7af9b1fd5fa749cbe7e63c",
+      "bytes": 58424,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001227",
+      "status": "available",
+      "path": "data/portraits/M001227.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001227.jpg",
+      "sha256": "434fb58748be829c0b5007f3350d9bcf4d4551421139a7009d23f222812a9483",
+      "bytes": 91877,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001228",
+      "status": "available",
+      "path": "data/portraits/M001228.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001228.jpg",
+      "sha256": "440fceb2cd5de6d6df5ae9b23475feed4d377ff92352dfa21f67b8beab4bfa0c",
+      "bytes": 81139,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001229",
+      "status": "available",
+      "path": "data/portraits/M001229.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001229.jpg",
+      "sha256": "f57b9b818b9dedd0bcb993109305caa8cef69c82836f61e782e21ecd3caab06e",
+      "bytes": 250213,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001230",
+      "status": "available",
+      "path": "data/portraits/M001230.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001230.jpg",
+      "sha256": "4f0e75f33c5cfe87cd2781367ec6acf4a8b28818211a4eab9333352bdf451a79",
+      "bytes": 80190,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001231",
+      "status": "available",
+      "path": "data/portraits/M001231.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001231.jpg",
+      "sha256": "6607bb9a7c79463ba6ff385fdec44b2f0c7b3d65b4cda5271e372e3fc8b48361",
+      "bytes": 67244,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001232",
+      "status": "available",
+      "path": "data/portraits/M001232.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001232.jpg",
+      "sha256": "24de2d26b24c3ce7e7f20b176008b62457862cbda2a89297a5daa74cd53e7dc0",
+      "bytes": 95183,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001233",
+      "status": "available",
+      "path": "data/portraits/M001233.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001233.jpg",
+      "sha256": "6972044c514d96cd6b871fc3065eab48d725142ef8859fa61ffcc031d49903fd",
+      "bytes": 91614,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001234",
+      "status": "available",
+      "path": "data/portraits/M001234.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001234.jpg",
+      "sha256": "44f3d4e27449858a065058e2a0b096a4d941533b6102af8e2a928ff0ebcea55f",
+      "bytes": 91702,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001235",
+      "status": "available",
+      "path": "data/portraits/M001235.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001235.jpg",
+      "sha256": "1590f2aebae3a9ec9a45cb7b84074755bf7afaaef629d9523cc9c2ffa496c720",
+      "bytes": 76050,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001236",
+      "status": "available",
+      "path": "data/portraits/M001236.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001236.jpg",
+      "sha256": "ad9d5a41f457a920c09997bf5761e44124fabbb05300a4b05f3c9adcfde39940",
+      "bytes": 71172,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001237",
+      "status": "available",
+      "path": "data/portraits/M001237.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001237.jpg",
+      "sha256": "3520d046930454eb587ee62c6afe92bab386f3d2718671527a38655dba2e9442",
+      "bytes": 91784,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001238",
+      "status": "available",
+      "path": "data/portraits/M001238.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001238.jpg",
+      "sha256": "10466bffa9863cc01debf2209b38bcde589a74bcc08ee57806d96eca402a3e05",
+      "bytes": 83701,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001239",
+      "status": "available",
+      "path": "data/portraits/M001239.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001239.jpg",
+      "sha256": "79ecc421ff260ed4417e5ebb401958b73c9dbc73b9db2564d768f1f8fc89ffb4",
+      "bytes": 81910,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001240",
+      "status": "available",
+      "path": "data/portraits/M001240.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001240.jpg",
+      "sha256": "adcf214b3722648581d9314080599f538703447627ca2482e82b59a92ede6293",
+      "bytes": 87604,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001241",
+      "status": "available",
+      "path": "data/portraits/M001241.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001241.jpg",
+      "sha256": "bcd33ee75239cc2c6f76a5623fe66421289f00a81eff4db0d92bc9b8a7d4d144",
+      "bytes": 59037,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001242",
+      "status": "available",
+      "path": "data/portraits/M001242.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001242.jpg",
+      "sha256": "148acc34b1bada851c1272d88c560d7daf7679a3c381d4e1f3838ca063aaeb27",
+      "bytes": 65601,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001243",
+      "status": "available",
+      "path": "data/portraits/M001243.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001243.jpg",
+      "sha256": "eeac0afb1906b1995bc4771f444934451f2fc894fe8dcd43cc26e492adee3a97",
+      "bytes": 80728,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001244",
+      "status": "available",
+      "path": "data/portraits/M001244.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001244.jpg",
+      "sha256": "c17060dcfc329da17b8f6bb7b2dbcfa7c496869bb5c1d3a8d3cd39f81e542268",
+      "bytes": 57380,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "M001245",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001245.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "M001246",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/M001246.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "N000002",
+      "status": "available",
+      "path": "data/portraits/N000002.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000002.jpg",
+      "sha256": "134acde6c0064e9f0da9acf48d6ade9e41870506f7a46b2111acff1fdd668c3f",
+      "bytes": 47252,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "N000015",
+      "status": "available",
+      "path": "data/portraits/N000015.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000015.jpg",
+      "sha256": "8c35645829380b4f657a855780a6d27ac178d24f6dc4b0b5503d0edc07b80fe8",
+      "bytes": 52398,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "N000026",
+      "status": "available",
+      "path": "data/portraits/N000026.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000026.jpg",
+      "sha256": "91fb7222117c43c9adc00b941de06766c2677ca648dda5fc7fbdeaec0e759f74",
+      "bytes": 12399,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "N000147",
+      "status": "available",
+      "path": "data/portraits/N000147.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000147.jpg",
+      "sha256": "59d05d2885edcba6f4c5546087fa7ebc480819be1c53437db6ceaed623c2b9eb",
+      "bytes": 58354,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "N000188",
+      "status": "available",
+      "path": "data/portraits/N000188.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000188.jpg",
+      "sha256": "ae6930e97f3a82561f457055d75b4abf2c3ba7c959a1f396a83ad9c89f5ba42b",
+      "bytes": 14544,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "N000189",
+      "status": "available",
+      "path": "data/portraits/N000189.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000189.jpg",
+      "sha256": "86d3b2ac4ae63d53e2b598239282ffcbfb2bd389b954add9bdb2adf74c94bb8a",
+      "bytes": 14322,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "N000190",
+      "status": "available",
+      "path": "data/portraits/N000190.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000190.jpg",
+      "sha256": "5a92b08b32404c0581f6a8dc21fc1cab722e21374227dbdbb4a573850231f367",
+      "bytes": 56869,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "N000191",
+      "status": "available",
+      "path": "data/portraits/N000191.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000191.jpg",
+      "sha256": "f51a5f666b63e632af1e0d27a261550d5345af8a676f84982e4968e8e5a25602",
+      "bytes": 64532,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "N000193",
+      "status": "available",
+      "path": "data/portraits/N000193.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/N000193.jpg",
+      "sha256": "1a6816bede935e61ef44a79672d99e62c43afab8a3dd849021ac6ced38828822",
+      "bytes": 93104,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "O000019",
+      "status": "available",
+      "path": "data/portraits/O000019.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/O000019.jpg",
+      "sha256": "612ab63c4c8df09c84cb7eb52532efba254ecac6fba72680485cd6b263932e96",
+      "bytes": 46973,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "O000086",
+      "status": "available",
+      "path": "data/portraits/O000086.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/O000086.jpg",
+      "sha256": "55bbd0c28f1d76d9007af99129418a7fa1c69d15431722824800a610c7dd94bf",
+      "bytes": 45889,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "O000172",
+      "status": "available",
+      "path": "data/portraits/O000172.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/O000172.jpg",
+      "sha256": "6d0f83dc81be78956e434b88a7be45208beed7720348286d0756848ab0dfa2a4",
+      "bytes": 66492,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "O000173",
+      "status": "available",
+      "path": "data/portraits/O000173.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/O000173.jpg",
+      "sha256": "081aeb6d063c70bd4aac2ab62395e7f17c979de13c1518405b993b35c9ee297d",
+      "bytes": 72364,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "O000174",
+      "status": "available",
+      "path": "data/portraits/O000174.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/O000174.jpg",
+      "sha256": "2092bd2fc86f06c750def6001ebe9d7c70b4135cb98ccd72377250781880fba9",
+      "bytes": 66637,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "O000175",
+      "status": "available",
+      "path": "data/portraits/O000175.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/O000175.jpg",
+      "sha256": "4554760375b1c686cdab4c5f70e72c4957e243623f9927beae12ba754db23c54",
+      "bytes": 90414,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "O000176",
+      "status": "available",
+      "path": "data/portraits/O000176.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/O000176.jpg",
+      "sha256": "c7374f3b63b2cc20fbc35949f45cc68aa2a9202df7d1a6a4d2ca9de2ef2a12ac",
+      "bytes": 85979,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "O000177",
+      "status": "available",
+      "path": "data/portraits/O000177.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/O000177.jpg",
+      "sha256": "8252c5f1dacc556d80a0486f9c000c463e4fb98995a4679c4c24d24b346862f4",
+      "bytes": 82660,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000034",
+      "status": "available",
+      "path": "data/portraits/P000034.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000034.jpg",
+      "sha256": "165380b8bec10de388c2e2e80455faf70dbffed9bd780f615d36bc3d6d05f2ef",
+      "bytes": 53729,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000048",
+      "status": "available",
+      "path": "data/portraits/P000048.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000048.jpg",
+      "sha256": "e58fd1473736b41cc60fb85781f959593315a8e1ca5408b3cdbc5f8f3d6c4913",
+      "bytes": 43829,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "P000145",
+      "status": "available",
+      "path": "data/portraits/P000145.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000145.jpg",
+      "sha256": "875356fc7948f24536efa7ba34452f6a3f575c52de0806cffa4fb0f6642fe15b",
+      "bytes": 13304,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "P000197",
+      "status": "available",
+      "path": "data/portraits/P000197.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000197.jpg",
+      "sha256": "328193cb180fb89e817f8603f3936d7a2ff2c6dc3dcb2a1a162f2c9a98f41217",
+      "bytes": 56300,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000595",
+      "status": "available",
+      "path": "data/portraits/P000595.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000595.jpg",
+      "sha256": "ba93c13e2dd7b0dac497d2b9a949b23798ae8f5a57ab991ea37541fcb7414d11",
+      "bytes": 52011,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000597",
+      "status": "available",
+      "path": "data/portraits/P000597.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000597.jpg",
+      "sha256": "c7a334783147c2fe353244d8ba9b54b4b1c422c3273809990c8d3fc0b049200c",
+      "bytes": 54438,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000603",
+      "status": "available",
+      "path": "data/portraits/P000603.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000603.jpg",
+      "sha256": "5cc660d2514272d0a08b92ff58bffedf79e4a38f975426d78608e6fcb5cc3071",
+      "bytes": 47934,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000605",
+      "status": "available",
+      "path": "data/portraits/P000605.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000605.jpg",
+      "sha256": "146e0e727b60b2cc8191b9d89939d593bd2f61e2a051a94919642dcd220f4b9f",
+      "bytes": 47713,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000607",
+      "status": "available",
+      "path": "data/portraits/P000607.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000607.jpg",
+      "sha256": "797287f71d6fcebe46195a5ff426cf67fd158f366bbe8c8399dcd8053019fd42",
+      "bytes": 53590,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000608",
+      "status": "available",
+      "path": "data/portraits/P000608.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000608.jpg",
+      "sha256": "55a176af41ec9412e219ccb29df6ef9e780b4fba93c7769981763a6e1436d77b",
+      "bytes": 45144,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000609",
+      "status": "available",
+      "path": "data/portraits/P000609.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000609.jpg",
+      "sha256": "3077a735bb0f4edd472e57cc5ef7226b4700a4b35ad3d0e67dd217bb7b3f2f71",
+      "bytes": 55438,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000610",
+      "status": "available",
+      "path": "data/portraits/P000610.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000610.jpg",
+      "sha256": "b96ad7c1035e7a83356e8d22633a567ae01e3e0f6b31e963c089fdcc554dc9c0",
+      "bytes": 53429,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000613",
+      "status": "available",
+      "path": "data/portraits/P000613.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000613.jpg",
+      "sha256": "71be96ed429b6ad8a0268ff230ad8494edd5e8a6fdf070533910ca9db7190665",
+      "bytes": 72074,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000614",
+      "status": "available",
+      "path": "data/portraits/P000614.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000614.jpg",
+      "sha256": "fb065e414fd0834c6dd89fab56b6a0a4d89ef653c0a1a1c7555379043b0e1928",
+      "bytes": 29801,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000617",
+      "status": "available",
+      "path": "data/portraits/P000617.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000617.jpg",
+      "sha256": "433a5e19984332a065117c1dd67ae99da69582d266b93cb6b85d9e1453ec59b7",
+      "bytes": 21398,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000620",
+      "status": "available",
+      "path": "data/portraits/P000620.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000620.jpg",
+      "sha256": "f9f69f8acfbadfa8c19460579c90d86314bca1c75215a5a93e429b611dbeb000",
+      "bytes": 91805,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000621",
+      "status": "available",
+      "path": "data/portraits/P000621.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000621.jpg",
+      "sha256": "1c36055945a0ecb885d0d5f9f227f7b6a2326f3cecc4c0da7662304f8eee78ba",
+      "bytes": 91772,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "P000622",
+      "status": "available",
+      "path": "data/portraits/P000622.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/P000622.jpg",
+      "sha256": "38ac7cde732233bb910ed3b9a1c3db6142633652dce7d3b15a41e2f16b2dc814",
+      "bytes": 84161,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "Q000023",
+      "status": "available",
+      "path": "data/portraits/Q000023.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/Q000023.jpg",
+      "sha256": "358579712c3909255529ee10eb237521d42ec932771fa5aaad83c32ff5f6b811",
+      "bytes": 14612,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000122",
+      "status": "available",
+      "path": "data/portraits/R000122.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000122.jpg",
+      "sha256": "9e973903950548385909cf129b1ad0625e91635ccf838a186e04d09312cfa12a",
+      "bytes": 18578,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000305",
+      "status": "available",
+      "path": "data/portraits/R000305.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000305.jpg",
+      "sha256": "53092bc582bc31ea67a97d885c9493fd0f8e7f5951b8fa3189c3cca4d646d658",
+      "bytes": 43754,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "R000395",
+      "status": "available",
+      "path": "data/portraits/R000395.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000395.jpg",
+      "sha256": "ee76f90b3b71e114e97211f5e0787424b8555feca5258b6167aad8861ae7bfaa",
+      "bytes": 53998,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000575",
+      "status": "available",
+      "path": "data/portraits/R000575.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000575.jpg",
+      "sha256": "d6188fd74d1c224beb15c9c3062c1383e918267668c4909703523dca8eb8ec2f",
+      "bytes": 55020,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000579",
+      "status": "available",
+      "path": "data/portraits/R000579.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000579.jpg",
+      "sha256": "df5deaf84c4dd66f71cfbfd47c3651c19c50856b361bb334119af7f6667a7dde",
+      "bytes": 94731,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000584",
+      "status": "available",
+      "path": "data/portraits/R000584.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000584.jpg",
+      "sha256": "38dc807f5e155c0f690534fb05193f3f806392a861eb070aa0c8dee3abc274e7",
+      "bytes": 46598,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000599",
+      "status": "available",
+      "path": "data/portraits/R000599.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000599.jpg",
+      "sha256": "68419e94bc069ef1676d17c631c0fbc4368784ed768f3b2482680236614f6e09",
+      "bytes": 14505,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000600",
+      "status": "available",
+      "path": "data/portraits/R000600.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000600.jpg",
+      "sha256": "039b590154a5de443d89bd363bb99412122b049e1780a4ac6e3ec38db474eecf",
+      "bytes": 17521,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000603",
+      "status": "available",
+      "path": "data/portraits/R000603.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000603.jpg",
+      "sha256": "572f682c5b557eb91bd3198183bbf890a370025bb6e87f03c91e15fad044ce8b",
+      "bytes": 14154,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000605",
+      "status": "available",
+      "path": "data/portraits/R000605.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000605.jpg",
+      "sha256": "8d4be4a4730e3c9622055d2b9181f421eaaacd0c0461b861dfbbabe17499235c",
+      "bytes": 24901,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000606",
+      "status": "available",
+      "path": "data/portraits/R000606.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000606.jpg",
+      "sha256": "03646de1b761eb470c1785a1a457d751a50aec3623af07593c82132f546f1849",
+      "bytes": 11562,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000608",
+      "status": "available",
+      "path": "data/portraits/R000608.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000608.jpg",
+      "sha256": "a57ae539b2c507ba0ac5270f83f684dec0f7b38ec72309efcf6824789fc8bc76",
+      "bytes": 75261,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000609",
+      "status": "available",
+      "path": "data/portraits/R000609.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000609.jpg",
+      "sha256": "21cc1bab369677587eebd8def9acab3d8fa1828b467730e2657a5907d9423b41",
+      "bytes": 79903,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000610",
+      "status": "available",
+      "path": "data/portraits/R000610.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000610.jpg",
+      "sha256": "32771ebd1792c0f6d31c12a591c1e75539e279b566b9e44b3e77f286db9fb199",
+      "bytes": 91347,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000612",
+      "status": "available",
+      "path": "data/portraits/R000612.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000612.jpg",
+      "sha256": "0f83d51a896e57f3de0d3b15c20cc77a3305157404d9f704d61723293c61dc82",
+      "bytes": 65334,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000614",
+      "status": "available",
+      "path": "data/portraits/R000614.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000614.jpg",
+      "sha256": "e4078560d81d9c3df864c1a0acf78298b200f0a5782e5596dfd93b61ed10fe64",
+      "bytes": 58130,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000617",
+      "status": "available",
+      "path": "data/portraits/R000617.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000617.jpg",
+      "sha256": "ba88b38241ad955a5c4a9b9c35bcf13d9553d806d99443dd11666cfbfe5dc2e2",
+      "bytes": 102096,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000618",
+      "status": "available",
+      "path": "data/portraits/R000618.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000618.jpg",
+      "sha256": "d33d1fcce26e45556a8a91f63f1d8b4215169dde66a4d7a433a80656b02d0481",
+      "bytes": 73812,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000619",
+      "status": "available",
+      "path": "data/portraits/R000619.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000619.jpg",
+      "sha256": "c077c28303746fbe347f3ac3c1fa51c551c5d9113bbed166bf520b5c01fd6d77",
+      "bytes": 69830,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000620",
+      "status": "available",
+      "path": "data/portraits/R000620.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000620.jpg",
+      "sha256": "c67c400f9c69b98bbfd7bb6d838f719d0fd0b725615c4202854a64b63380a9ec",
+      "bytes": 95926,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000621",
+      "status": "available",
+      "path": "data/portraits/R000621.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000621.jpg",
+      "sha256": "bfa0684e069432040b5230560eeddb1dcd466f37d7675ce41a0439bdb94a3ae3",
+      "bytes": 87809,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "R000622",
+      "status": "available",
+      "path": "data/portraits/R000622.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/R000622.jpg",
+      "sha256": "a2e8b524aeffc0639ed962f14da037afd441bb3e78e265b4b83c631a49bcbbd3",
+      "bytes": 79630,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S000033",
+      "status": "available",
+      "path": "data/portraits/S000033.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000033.jpg",
+      "sha256": "5df00f39cc3d22944fc949e947a72120268ac1cd0f43bbddce8c7c8d37c4d44b",
+      "bytes": 18081,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S000148",
+      "status": "available",
+      "path": "data/portraits/S000148.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000148.jpg",
+      "sha256": "424f623dc1c06861262581c49a79fac99a9320eeb9f6d9cd2bc310f92c075f97",
+      "bytes": 47189,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S000168",
+      "status": "available",
+      "path": "data/portraits/S000168.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000168.jpg",
+      "sha256": "d6fa18a89c2043ad198543f5925da95502efce225b1e49b076a1cbb40d709a1b",
+      "bytes": 30947,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "S000185",
+      "status": "available",
+      "path": "data/portraits/S000185.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000185.jpg",
+      "sha256": "d09b7fcc4feb820f9a31af2fec3e6e5f14291e04613d1a86f9fce1340d78472d",
+      "bytes": 54527,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S000250",
+      "status": "available",
+      "path": "data/portraits/S000250.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000250.jpg",
+      "sha256": "4da231c8eb9756ad237eee6d179f71ef92016b466d9ed70f6c47cd9d6e4bc275",
+      "bytes": 50843,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S000344",
+      "status": "available",
+      "path": "data/portraits/S000344.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000344.jpg",
+      "sha256": "eafe49642f1ea5aa7b78a184db5a867f75f9115b05aa85d2156fd483a2180c19",
+      "bytes": 61005,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S000510",
+      "status": "available",
+      "path": "data/portraits/S000510.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000510.jpg",
+      "sha256": "078b4780bdfdfaaffc1acdc667378339a3fd1f06dec48f1c638b4fda6ae1d33c",
+      "bytes": 44529,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S000522",
+      "status": "available",
+      "path": "data/portraits/S000522.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000522.jpg",
+      "sha256": "eb64c7f9873f51746abf3ff333bfe718896d71d129a073aaff2628ce0013e544",
+      "bytes": 46987,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S000929",
+      "status": "available",
+      "path": "data/portraits/S000929.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S000929.jpg",
+      "sha256": "b859426312d3e19a265121c7d0700098630cf07a44ce067f6df1395aa5ab0ef4",
+      "bytes": 40476,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "S001145",
+      "status": "available",
+      "path": "data/portraits/S001145.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001145.jpg",
+      "sha256": "11fe2a80e3a2138dcc0267735182da51151896471be4a659cbf77fbaf1a61796",
+      "bytes": 17384,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001148",
+      "status": "available",
+      "path": "data/portraits/S001148.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001148.jpg",
+      "sha256": "4e0f89788c0933d9c7f9e9bf5ecce67b29382141c2ac0a2d08d642b4c6099ada",
+      "bytes": 50587,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001150",
+      "status": "available",
+      "path": "data/portraits/S001150.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001150.jpg",
+      "sha256": "e64c547aeaed48edb49350929eef0a771531bfa4e3cc41a67faed06db5f943c0",
+      "bytes": 45210,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001156",
+      "status": "available",
+      "path": "data/portraits/S001156.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001156.jpg",
+      "sha256": "d2c86b2b72b59eb58fda7b74a800b4691e9a7f0e006ab9b6bb74b92d1cd0f07d",
+      "bytes": 54294,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001159",
+      "status": "available",
+      "path": "data/portraits/S001159.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001159.jpg",
+      "sha256": "e233e424267db0b854fb87e447b9b1e31aabd73d6abb3dbd4ec065bbf51e70bf",
+      "bytes": 75273,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "S001172",
+      "status": "available",
+      "path": "data/portraits/S001172.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001172.jpg",
+      "sha256": "d1ca0af42eee625e50ca1dee09c6f30a04ed46aee66e71d5a59372e7202f2f07",
+      "bytes": 47882,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001176",
+      "status": "available",
+      "path": "data/portraits/S001176.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001176.jpg",
+      "sha256": "0f951ec5a8f764e2a32cbbf642eaafd7ab1b7b0dd9d2685a22895a46916b4654",
+      "bytes": 46027,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001181",
+      "status": "available",
+      "path": "data/portraits/S001181.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001181.jpg",
+      "sha256": "7ca6c0cc6eb32e8fc1ec4e577b7abf13eecf97e94bf9dfab8b3346652fcd7e69",
+      "bytes": 19405,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001183",
+      "status": "available",
+      "path": "data/portraits/S001183.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001183.jpg",
+      "sha256": "d2ba77d18dad9a45f3d9e4ee338f04f5321c63d22bf0b048e7967db9f2a54827",
+      "bytes": 51969,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001184",
+      "status": "available",
+      "path": "data/portraits/S001184.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001184.jpg",
+      "sha256": "796e30e4ee5a6fce63753adce01c80a7afd328f81d7b50ebba7d8cf5553cece7",
+      "bytes": 48847,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001185",
+      "status": "available",
+      "path": "data/portraits/S001185.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001185.jpg",
+      "sha256": "72a6016178d95869ed807123b0aaf0272375365c6d19f3bd204283b8c29be28b",
+      "bytes": 50436,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001188",
+      "status": "available",
+      "path": "data/portraits/S001188.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001188.jpg",
+      "sha256": "a2809b6c76116256ffe295c951e7fba5ba58e77226d695ee0cd9ed7add121d00",
+      "bytes": 47674,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001189",
+      "status": "available",
+      "path": "data/portraits/S001189.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001189.jpg",
+      "sha256": "ca069cfe8f02cd0a998a8e6972ae92684765a83afbca449d6d42e51803301738",
+      "bytes": 45045,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001190",
+      "status": "available",
+      "path": "data/portraits/S001190.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001190.jpg",
+      "sha256": "3ae551c0fc7a5c7c1aad3ec2a96e23175d548b1dc88e837bcf0eaa09c66faed7",
+      "bytes": 47816,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001194",
+      "status": "available",
+      "path": "data/portraits/S001194.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001194.jpg",
+      "sha256": "740d0da1a29a7d6d779036bc124ea30f47140fe54722f1c4c9992fede0acfbab",
+      "bytes": 51547,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001195",
+      "status": "available",
+      "path": "data/portraits/S001195.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001195.jpg",
+      "sha256": "92ef71ed07ba8053a43ad6ffe02ee44f80381e6dcd7f1828d1745a893783b93d",
+      "bytes": 14932,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001196",
+      "status": "available",
+      "path": "data/portraits/S001196.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001196.jpg",
+      "sha256": "9825cdb0a5de7d1b7dc0de6e3837d3202d93b774f94fc8e7d6722898bc9b70a9",
+      "bytes": 15195,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001198",
+      "status": "available",
+      "path": "data/portraits/S001198.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001198.jpg",
+      "sha256": "0bec633117963b31275cad1e6e778bfc5101a4243dd98eaf1c16b6a6540490f0",
+      "bytes": 12541,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001199",
+      "status": "available",
+      "path": "data/portraits/S001199.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001199.jpg",
+      "sha256": "c16fdbe2b9ec66d788c21c17f518ffa32411abf35caefaad17c8996018f47d7f",
+      "bytes": 75085,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001200",
+      "status": "available",
+      "path": "data/portraits/S001200.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001200.jpg",
+      "sha256": "971d3779ac2240b29ae2046e75aa8668b6461ede0e3c952cd03a9f8048005094",
+      "bytes": 53538,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001201",
+      "status": "available",
+      "path": "data/portraits/S001201.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001201.jpg",
+      "sha256": "7c65600424ae40ec35f8b9032068b9e13ffd610c96c7dc8ace71712671564845",
+      "bytes": 60066,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001203",
+      "status": "available",
+      "path": "data/portraits/S001203.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001203.jpg",
+      "sha256": "96b3ee552ecbe987fc53acaa9aa15ef8fef8ff445bea57aef949fb79ab7119ff",
+      "bytes": 55663,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001205",
+      "status": "available",
+      "path": "data/portraits/S001205.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001205.jpg",
+      "sha256": "436bd946df33b959e2b12c597967c09eb834ab6a4cdc3bccf247b049d46e6150",
+      "bytes": 67242,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001208",
+      "status": "available",
+      "path": "data/portraits/S001208.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001208.jpg",
+      "sha256": "9a1748deac29e75ae2be7623a9eb5dce551315cd04a604f21f4925818b726403",
+      "bytes": 67864,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001211",
+      "status": "available",
+      "path": "data/portraits/S001211.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001211.jpg",
+      "sha256": "57ad4afa078aeac5454763e78471f870d15680da1aa75ad79e1a6f3fe4edd506",
+      "bytes": 79754,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001212",
+      "status": "available",
+      "path": "data/portraits/S001212.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001212.jpg",
+      "sha256": "87fa69bd732be4bada51c07dff734201c8e3deb4993bcada1ff7674cb4042c46",
+      "bytes": 64075,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001213",
+      "status": "available",
+      "path": "data/portraits/S001213.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001213.jpg",
+      "sha256": "5577c53b0c592f85a9863617d1fe6e3302941bd29896d271e95cd674d6d7fc04",
+      "bytes": 28458,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001214",
+      "status": "available",
+      "path": "data/portraits/S001214.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001214.jpg",
+      "sha256": "3a3c6fd38f76b18621758d3dc1676d4a386b20a2d177fb15e98593bc97d587f9",
+      "bytes": 88498,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001215",
+      "status": "available",
+      "path": "data/portraits/S001215.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001215.jpg",
+      "sha256": "134b7e9c1fd3f43a03f591fe60bae23251391c440237b0b825eb4ab25d20e0c1",
+      "bytes": 9794,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001216",
+      "status": "available",
+      "path": "data/portraits/S001216.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001216.jpg",
+      "sha256": "f5379b2486ca216885073950e6c1e907aa81fee1ac21de2a39b0dc4299ab12de",
+      "bytes": 55371,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001217",
+      "status": "available",
+      "path": "data/portraits/S001217.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001217.jpg",
+      "sha256": "e97a647538b19f47d827d1dd721cc3b31f94637b844bbb114ad47ad63d1c41ff",
+      "bytes": 38010,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001218",
+      "status": "available",
+      "path": "data/portraits/S001218.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001218.jpg",
+      "sha256": "58d5b2d0cc685f7e60c414ee4197034136e11029998c6d5d28d23d110b661e9e",
+      "bytes": 16462,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "S001220",
+      "status": "available",
+      "path": "data/portraits/S001220.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001220.jpg",
+      "sha256": "0121270e228cc97c9e4dcb167d31637aa45e59dff52992dd00b5b076897689a8",
+      "bytes": 86581,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001221",
+      "status": "available",
+      "path": "data/portraits/S001221.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001221.jpg",
+      "sha256": "437a9f001071f6eaa1ee7ec96bba4f0d22928a180a963c74703bf48736ae3f44",
+      "bytes": 107561,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001223",
+      "status": "available",
+      "path": "data/portraits/S001223.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001223.jpg",
+      "sha256": "d1fa60e4f93670e3481fdb37a9350aca5b40120b4b0144734f0de36ccd999a23",
+      "bytes": 98411,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001224",
+      "status": "available",
+      "path": "data/portraits/S001224.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001224.jpg",
+      "sha256": "4f774fd1063dc77e1a7d027221f393c83be485ceb33c6e6fd2c109f32f0e2567",
+      "bytes": 95804,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001225",
+      "status": "available",
+      "path": "data/portraits/S001225.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001225.jpg",
+      "sha256": "cabf0ef5a317ecfd46bb6bcce008780adc5fb38e4f40be71769e4f404aa235ea",
+      "bytes": 100128,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001226",
+      "status": "available",
+      "path": "data/portraits/S001226.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001226.jpg",
+      "sha256": "c5357d570beddb030e1263793566a848fcb55203e24834778ae60eea44e8bbaf",
+      "bytes": 99345,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001227",
+      "status": "available",
+      "path": "data/portraits/S001227.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001227.jpg",
+      "sha256": "4c34d502733f5b72f44a5ddf36002054bf149cb32cd70266565ca7cb69e28f3e",
+      "bytes": 81111,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001228",
+      "status": "available",
+      "path": "data/portraits/S001228.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001228.jpg",
+      "sha256": "959f8e9ee8e6efe766dec699270a815b7bf3cdd4d8f3189671db531d669682f7",
+      "bytes": 81058,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001229",
+      "status": "available",
+      "path": "data/portraits/S001229.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001229.jpg",
+      "sha256": "7971be2fce91f9a800b0abd3c860f0510c41e713ad9e20beac17c3562e782194",
+      "bytes": 80862,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001230",
+      "status": "available",
+      "path": "data/portraits/S001230.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001230.jpg",
+      "sha256": "3dcdaadaa9d48f76990b02ff07dce4505f8f5cfd2f0ae518b9b7ebaa77686826",
+      "bytes": 64651,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001231",
+      "status": "available",
+      "path": "data/portraits/S001231.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001231.jpg",
+      "sha256": "f27f89a1ed5335634f00cab608661f01eb6bc1e4871ff2f15fafcdd2db82e40e",
+      "bytes": 82594,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "S001232",
+      "status": "available",
+      "path": "data/portraits/S001232.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/S001232.jpg",
+      "sha256": "1862fedbfa1bff2ec52549b28971609e7ef9219a92aaf90bfa1675a09a88c19b",
+      "bytes": 61851,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000165",
+      "status": "available",
+      "path": "data/portraits/T000165.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000165.jpg",
+      "sha256": "30934d15cdc8766641dc817c0bcce5f1007ffa1f49e563247d5804f6f3e41799",
+      "bytes": 56250,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000193",
+      "status": "available",
+      "path": "data/portraits/T000193.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000193.jpg",
+      "sha256": "6fe03ad422acd2440f28db7360ef1d988010047ac5d857c8e73a2146d8bd5274",
+      "bytes": 46955,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000250",
+      "status": "available",
+      "path": "data/portraits/T000250.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000250.jpg",
+      "sha256": "bc61ca5fd7466dbb60345c98d3f24604df3b1c7fd6b4e9a5c39b5093a6dff6ea",
+      "bytes": 44403,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000278",
+      "status": "available",
+      "path": "data/portraits/T000278.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000278.jpg",
+      "sha256": "182b207045b2134f064dec750447032923247c54f797040f0375e0b5a98deac0",
+      "bytes": 54349,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "T000460",
+      "status": "available",
+      "path": "data/portraits/T000460.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000460.jpg",
+      "sha256": "3adb28212506c8a65bcfaec644c117cf27c87d6989b4eb60f0fcceb0031ae5c5",
+      "bytes": 47910,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000463",
+      "status": "available",
+      "path": "data/portraits/T000463.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000463.jpg",
+      "sha256": "f47070cdb71da84831920a970e98878680aed44180e4afd59cf704e3276886ab",
+      "bytes": 51801,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000467",
+      "status": "available",
+      "path": "data/portraits/T000467.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000467.jpg",
+      "sha256": "3edcef8b258ead958e8d981da76002b0171cf6a5579639b003a923c9b80edd87",
+      "bytes": 44819,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000468",
+      "status": "available",
+      "path": "data/portraits/T000468.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000468.jpg",
+      "sha256": "7c098e328cf8ac28007928114cbc06de4542a01a2198a8b0a765757b4aac4889",
+      "bytes": 16634,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000469",
+      "status": "available",
+      "path": "data/portraits/T000469.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000469.jpg",
+      "sha256": "24d89eac5b1419f5e23b6c9d46050c61a657a3e34e9d4d4e6336f29c8f65b43a",
+      "bytes": 56525,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000472",
+      "status": "available",
+      "path": "data/portraits/T000472.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000472.jpg",
+      "sha256": "b973cbcb183eff1517c0ff47611b27f0cc7d91c43a68d95193f5fa742e66134d",
+      "bytes": 52475,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000474",
+      "status": "available",
+      "path": "data/portraits/T000474.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000474.jpg",
+      "sha256": "e1176ea9c1a7c5097243b72d791a53aefb8ba57208e17f3b432c0e9c31ef50af",
+      "bytes": 16126,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000476",
+      "status": "available",
+      "path": "data/portraits/T000476.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000476.jpg",
+      "sha256": "3e42a3fae7e70d90f1fdefef1b9e70225f47836bf34d692ae058aed1b0c93455",
+      "bytes": 15738,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000478",
+      "status": "available",
+      "path": "data/portraits/T000478.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000478.jpg",
+      "sha256": "b09b5f1f2844e06f04c10a9a2c8827441439706dc84c11005434d9008b1163bc",
+      "bytes": 13408,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000480",
+      "status": "available",
+      "path": "data/portraits/T000480.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000480.jpg",
+      "sha256": "c33e3ae833948dcce2a93a723772b51db96330a961948afc01e1ef56ecb49bb9",
+      "bytes": 33537,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000481",
+      "status": "available",
+      "path": "data/portraits/T000481.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000481.jpg",
+      "sha256": "fc82eac78e3f4468f88eccf24f1f151ba597378a54eda7565a0341347789b74f",
+      "bytes": 99674,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000482",
+      "status": "available",
+      "path": "data/portraits/T000482.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000482.jpg",
+      "sha256": "a8dda01cf9f7ac180cb42c7c2d50735a61ce5d87a7976558e1fbbae340f806c2",
+      "bytes": 10768,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000486",
+      "status": "available",
+      "path": "data/portraits/T000486.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000486.jpg",
+      "sha256": "dfcd267cb69043d9c627f4729ac7c577e374062f9f06d554c228c38b7a06eefe",
+      "bytes": 13843,
+      "height": 275,
+      "width": 183
+    },
+    {
+      "id": "T000487",
+      "status": "available",
+      "path": "data/portraits/T000487.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000487.jpg",
+      "sha256": "28f74102744de0ffbbac07057de89e5882c9633ea9839b00581995d1652d0416",
+      "bytes": 97936,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000488",
+      "status": "available",
+      "path": "data/portraits/T000488.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000488.jpg",
+      "sha256": "c8932be008697991bb5fc5bfdb826ea1f4482ec08783a6f4fb0beadd704d41a2",
+      "bytes": 93793,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000490",
+      "status": "available",
+      "path": "data/portraits/T000490.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000490.jpg",
+      "sha256": "0d06bcd95079ee1d00f5548a23e4bb14f5dc39fa65abd1ec6c4ecadc76feba01",
+      "bytes": 83645,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "T000491",
+      "status": "available",
+      "path": "data/portraits/T000491.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/T000491.jpg",
+      "sha256": "45cc9288ed259735097928f107f6158bf1aaaec55a89c95905ced7645d340b0b",
+      "bytes": 80545,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "U000040",
+      "status": "available",
+      "path": "data/portraits/U000040.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/U000040.jpg",
+      "sha256": "6f38885aa52bc5173dbbbdb30d0db815d0b6570255e40585857502b611245a52",
+      "bytes": 136169,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000081",
+      "status": "available",
+      "path": "data/portraits/V000081.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000081.jpg",
+      "sha256": "706afded3ba6d9af95487ef194ecef48408b02aeda4212713b98e35c25fcf126",
+      "bytes": 54454,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000128",
+      "status": "available",
+      "path": "data/portraits/V000128.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000128.jpg",
+      "sha256": "93a970b467dbcce555700fc4938cd93bd6900476c747481b90005020786dcffe",
+      "bytes": 47179,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000129",
+      "status": "available",
+      "path": "data/portraits/V000129.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000129.jpg",
+      "sha256": "f2c9c35b9336951196ce505570cea092faca7905c53170a96bf9ae7cd3edecd3",
+      "bytes": 50287,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000130",
+      "status": "available",
+      "path": "data/portraits/V000130.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000130.jpg",
+      "sha256": "4514701318421792b14f6e73b0faa8bdff2c1e11b2dbaf5c6ffcb80ae7d5ad24",
+      "bytes": 54568,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000131",
+      "status": "available",
+      "path": "data/portraits/V000131.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000131.jpg",
+      "sha256": "e11e7a3c0a3ff9a8653cc1c4a2c0ace9609eb2b0ac55141bc367cd781bfd94d0",
+      "bytes": 17767,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000133",
+      "status": "available",
+      "path": "data/portraits/V000133.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000133.jpg",
+      "sha256": "a877d4d71e6ed972b9161546cd796417a3182cc52d0daab120294b10bbc19f7b",
+      "bytes": 52087,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000134",
+      "status": "available",
+      "path": "data/portraits/V000134.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000134.jpg",
+      "sha256": "5ec26ab7c8be6b466310bf080f5ae1c2f913964d169e735890f00ffd45d90713",
+      "bytes": 32842,
+      "height": 275,
+      "width": 183
+    },
+    {
+      "id": "V000135",
+      "status": "available",
+      "path": "data/portraits/V000135.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000135.jpg",
+      "sha256": "6d72b2c5399e509027ccc562370ccaddcbad53e51f6d8c665e3bd6c162100560",
+      "bytes": 90247,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000136",
+      "status": "available",
+      "path": "data/portraits/V000136.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000136.jpg",
+      "sha256": "46313281050dfebee58ae72f6012797c631256d65d156442c6fe2071dd7a4180",
+      "bytes": 95495,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000138",
+      "status": "available",
+      "path": "data/portraits/V000138.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000138.jpg",
+      "sha256": "bbfd4f8a932c2353fb7be8f774a94e8abc20f6f8a8d9a6fecfbfdf96c878c4a8",
+      "bytes": 85122,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "V000139",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/V000139.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "W000187",
+      "status": "available",
+      "path": "data/portraits/W000187.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000187.jpg",
+      "sha256": "b43e6911d0e898109082538abf697ff31972f07923f1ee816da01578916470fa",
+      "bytes": 54401,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000437",
+      "status": "available",
+      "path": "data/portraits/W000437.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000437.jpg",
+      "sha256": "6817f985035d40acd05bb5655159ceed85c0869f0523c2bce7a99eea4fd6a149",
+      "bytes": 18177,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000779",
+      "status": "available",
+      "path": "data/portraits/W000779.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000779.jpg",
+      "sha256": "673e0c5aaeeb4757d2fdea06993a8cf2e2161761fe07f0a5f47b5cfc912b952b",
+      "bytes": 17619,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000788",
+      "status": "available",
+      "path": "data/portraits/W000788.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000788.jpg",
+      "sha256": "9029e8d75a2e54c936a54000e38c890997e5cd2e788412cafba38591ce7ff409",
+      "bytes": 69843,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "W000790",
+      "status": "available",
+      "path": "data/portraits/W000790.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000790.jpg",
+      "sha256": "b623a62641b89b695c439b787c3b2612652889eeed7d2443b84c9667761aee16",
+      "bytes": 66756,
+      "height": 275,
+      "width": 220
+    },
+    {
+      "id": "W000795",
+      "status": "available",
+      "path": "data/portraits/W000795.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000795.jpg",
+      "sha256": "d5af46c2af3fcb650e737c93c3d27bd58fc02ff72f8eaa208bc0b6356badee2e",
+      "bytes": 47635,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000797",
+      "status": "available",
+      "path": "data/portraits/W000797.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000797.jpg",
+      "sha256": "8f1bf9ded7a09fa49e8caf4514cef16d6c03df0eb72ad4c8d0994befb6b054b9",
+      "bytes": 20277,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000798",
+      "status": "available",
+      "path": "data/portraits/W000798.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000798.jpg",
+      "sha256": "1b68b62f9e2d94a226f7e9c8c3d8238f62cda54da805321f54caacf81563e28a",
+      "bytes": 48780,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000800",
+      "status": "available",
+      "path": "data/portraits/W000800.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000800.jpg",
+      "sha256": "f3da5468080c2810ea93330405e1d379ed3c70d7d68dad062aaf3d3a22a6e7ce",
+      "bytes": 14302,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000802",
+      "status": "available",
+      "path": "data/portraits/W000802.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000802.jpg",
+      "sha256": "c4292d8f3f859e0e64aaea57131ca72e67bdb1f3fd117b66c310d29c752ff4f6",
+      "bytes": 54469,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000804",
+      "status": "available",
+      "path": "data/portraits/W000804.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000804.jpg",
+      "sha256": "8f2f493827eb9c77b8709cc3f2aa759d8598e8732d134974cb92ab798b9c4940",
+      "bytes": 15217,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000805",
+      "status": "available",
+      "path": "data/portraits/W000805.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000805.jpg",
+      "sha256": "08ef2d14bc2db3e0675c6100c9cf1d6c75dfc9f0b511c175960e4c28de96adeb",
+      "bytes": 52504,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000806",
+      "status": "available",
+      "path": "data/portraits/W000806.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000806.jpg",
+      "sha256": "f362a13628a10a53927ec2a0fc92e1d6697ce751f7bd37805e67efe31bb5b5a6",
+      "bytes": 51658,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000808",
+      "status": "available",
+      "path": "data/portraits/W000808.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000808.jpg",
+      "sha256": "2780c0f55fab9a6bbb83e64c1cae6ed4f68bb29196c739c8d0c2cc9784cba8a4",
+      "bytes": 54915,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000809",
+      "status": "available",
+      "path": "data/portraits/W000809.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000809.jpg",
+      "sha256": "21fb1e6d8247f5899837610ad50108b76454f4c83a6fd00bb55b8e87bad9a465",
+      "bytes": 40829,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000812",
+      "status": "available",
+      "path": "data/portraits/W000812.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000812.jpg",
+      "sha256": "0d416ce3bcb29e7a06e134951887a17abfb9740c8694308db094db4627f736b1",
+      "bytes": 60055,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000814",
+      "status": "available",
+      "path": "data/portraits/W000814.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000814.jpg",
+      "sha256": "04ecc697c8744f45771fd00a142a4072043fd32841c15db3f3ee0ad7a9074c75",
+      "bytes": 14913,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000816",
+      "status": "available",
+      "path": "data/portraits/W000816.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000816.jpg",
+      "sha256": "ed8c375e7af3d23d0a2205d222f4bf5bd7511cd6e94ac6c9f36287f4eba04ee0",
+      "bytes": 52825,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000817",
+      "status": "available",
+      "path": "data/portraits/W000817.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000817.jpg",
+      "sha256": "6123851ad5e22eadd04c20cf79b79d61546692b771fb27601a0e316ae7e5cf0c",
+      "bytes": 47008,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000821",
+      "status": "available",
+      "path": "data/portraits/W000821.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000821.jpg",
+      "sha256": "1b944b23654fde7917764cc4be3c2a164be9c9400c19bdc6ee944fa6af64855a",
+      "bytes": 14428,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000822",
+      "status": "available",
+      "path": "data/portraits/W000822.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000822.jpg",
+      "sha256": "c3490c44b56ed6c13b64a5fbaed99c70533c938fc897933b1ffcad41ddbc9f63",
+      "bytes": 16160,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000829",
+      "status": "available",
+      "path": "data/portraits/W000829.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000829.jpg",
+      "sha256": "eecda6d24194f22af87939bd9f9a8653b06025aae2b8fb0fe2128e19c262ba12",
+      "bytes": 76288,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000830",
+      "status": "available",
+      "path": "data/portraits/W000830.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000830.jpg",
+      "sha256": "eda92c705757c25e0ad35da6e8f688525f29ec191bf0c6b2d2e0ed29a8d1e7f2",
+      "bytes": 78057,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "W000831",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000831.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "W000832",
+      "status": "missing",
+      "path": null,
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/W000832.jpg",
+      "reason": "Source returned HTTP 404."
+    },
+    {
+      "id": "Y000064",
+      "status": "available",
+      "path": "data/portraits/Y000064.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/Y000064.jpg",
+      "sha256": "3de16dc506f6998166f011711578063d6e036f7e8c16756d9f8d1c6a2e6123f9",
+      "bytes": 51800,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "Y000067",
+      "status": "available",
+      "path": "data/portraits/Y000067.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/Y000067.jpg",
+      "sha256": "c9a60c8a7a6698cd7ca3317b7d4b8e4aa1056520c28f1f8e28763389c67af141",
+      "bytes": 122106,
+      "height": 275,
+      "width": 225
+    },
+    {
+      "id": "Z000018",
+      "status": "available",
+      "path": "data/portraits/Z000018.jpg",
+      "sourceUrl": "https://unitedstates.github.io/images/congress/225x275/Z000018.jpg",
+      "sha256": "2b0f9cb1dfd3105df05d342c329a387d646bf6cf08a29709bc55fc9267fa7a32",
+      "bytes": 13972,
+      "height": 275,
+      "width": 225
+    }
+  ]
+}

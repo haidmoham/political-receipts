@@ -1,0 +1,69 @@
+[
+  {
+    "id": "C001075",
+    "heading": "Your health care. Your paycheck. Your student loans.",
+    "role": "Chair, Senate Health, Education, Labor, and Pensions Committee",
+    "stakes": "Bill Cassidy chairs the committee that considers health policy, workplace safety, pay and working hours, private pensions, and student loans. These policy areas reach household health, earnings, debt, and retirement.",
+    "evidence": [
+      {
+        "label": "Official Senate HELP membership and leadership",
+        "url": "https://www.senate.gov/general/committee_membership/committee_memberships_SSHR.htm"
+      },
+      {
+        "label": "HELP jurisdiction under Senate Rule XXV",
+        "url": "https://www.help.senate.gov/about/"
+      }
+    ],
+    "connectionStatus": "jurisdiction-only",
+    "donorSectorConnection": null,
+    "connectionNote": "This establishes policy responsibility. The campaign summary does not identify donor sectors or show that a contribution caused a policy decision.",
+    "verifiedAt": "2026-09-08",
+    "congress": 119
+  },
+  {
+    "id": "S000033",
+    "heading": "Your health care. Your paycheck. Your retirement.",
+    "role": "Ranking member, Senate Health, Education, Labor, and Pensions Committee",
+    "stakes": "Bernie Sanders is the senior minority member of the committee responsible for health policy, workplace safety, pay and working hours, private pensions, and student loans. Its jurisdiction concerns household health, earnings, debt, and retirement.",
+    "evidence": [
+      {
+        "label": "Official Senate HELP membership and leadership",
+        "url": "https://www.senate.gov/general/committee_membership/committee_memberships_SSHR.htm"
+      },
+      {
+        "label": "HELP jurisdiction under Senate Rule XXV",
+        "url": "https://www.help.senate.gov/about/"
+      }
+    ],
+    "connectionStatus": "jurisdiction-only",
+    "donorSectorConnection": null,
+    "connectionNote": "This establishes policy responsibility. The campaign summary does not identify donor sectors or show that a contribution caused a policy decision.",
+    "verifiedAt": "2026-09-08",
+    "congress": 119
+  },
+  {
+    "id": "W000817",
+    "heading": "Your housing. Your credit. Your savings.",
+    "role": "Ranking member, Senate Banking, Housing, and Urban Affairs Committee",
+    "stakes": "Elizabeth Warren is the senior minority member of the committee whose jurisdiction includes banks, credit, deposit insurance, housing, and federal monetary policy. These are policy areas that concern borrowing, savings, and having a home.",
+    "evidence": [
+      {
+        "label": "Official Senate Banking membership and leadership",
+        "url": "https://www.senate.gov/general/committee_membership/committee_memberships_SSBK.htm"
+      },
+      {
+        "label": "Banking Committee jurisdiction under Senate Rule XXV",
+        "url": "https://www.banking.senate.gov/about/jurisdiction"
+      },
+      {
+        "label": "Banking Committee leadership overview",
+        "url": "https://www.banking.senate.gov/about"
+      }
+    ],
+    "connectionStatus": "jurisdiction-only",
+    "donorSectorConnection": null,
+    "connectionNote": "This establishes policy responsibility. The campaign summary does not identify donor sectors or show that a contribution caused a policy decision.",
+    "verifiedAt": "2026-09-08",
+    "congress": 119
+  }
+]
