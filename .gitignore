@@ -3,3 +3,5 @@ dist/
 artifacts/
 *.zip
 !data/weball26.zip
+
+site-dist/
