@@ -4,6 +4,8 @@ A small Chrome extension by **shin86dev**. Hover or focus a supported member of 
 
 This is a review build. It has not been submitted to the Chrome Web Store.
 
+Source publication is complete when this repository is public. Store launch is deliberately deferred. See [launch later](docs/launch-later.md) for the remaining steps. The [RuneLite companion](https://github.com/haidmoham/political-receipts-runelite) is a separate project.
+
 ## Run
 
 Use Node 22 or newer.
