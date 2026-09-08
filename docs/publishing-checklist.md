@@ -24,6 +24,7 @@ Prepared 2026-09-08. This is a submission plan, not evidence of publication.
 
 ## Identity and review
 
+- [x] User approved the current visual direction on 2026-09-08: “this looks good, you can test in chrome.” This authorizes the Chrome test pass. It does not prove Chrome behavior or approve unseen final screenshots.
 - [ ] Let the user vet the working extension, screenshots, listing, and data limitations.
 - [ ] Verify the signed-in developer account and requested shin86dev publisher identity in the live dashboard.
 - [ ] Complete any account registration and required verification. Chrome requires developer registration and a one-time registration fee. See [register your account](https://developer.chrome.com/docs/webstore/register). Do not invent account or payment details.
