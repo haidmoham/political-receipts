@@ -72,6 +72,7 @@
       const hits=match(n.textContent);if(!hits.length)continue;
       const frag=document.createDocumentFragment();let end=0;
       for(const hit of hits){
+        if(marks.size>=1500)break;
         frag.append(document.createTextNode(n.textContent.slice(end,hit.start)));
         const mark=document.createElement('span');mark.dataset.receiptsId=hit.person.id;
         mark.textContent=n.textContent.slice(hit.start,hit.end);mark.tabIndex=0;mark.setAttribute('role','button');mark.setAttribute('aria-expanded','false');mark.setAttribute('aria-label',`${mark.textContent}: campaign finance receipt`);

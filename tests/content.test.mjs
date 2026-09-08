@@ -66,3 +66,15 @@ test('stop removes marks and queued scans; reinjection has one active scanner',a
   assert.equal(h.w.document.activeElement,h.mark());
   assert.equal(h.mark().getAttribute('aria-expanded'),'false');
 });
+
+test('one long text node cannot exceed the highlight limit or lose text',async t=>{
+  const h=await setup(t);
+  h.w.__receiptsStop();
+  const text='Ted Cruz '.repeat(1600);
+  h.w.document.querySelector('p').textContent=text;
+  await h.w.eval(content);
+  assert.equal(h.w.__receiptsStatus().count,1500);
+  assert.equal(h.w.document.querySelector('p').textContent,text);
+  h.w.__receiptsStop();
+  assert.equal(h.w.document.querySelector('p').textContent,text);
+});
