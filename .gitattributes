@@ -3,3 +3,4 @@
 *.png binary
 *.zip binary
 data/legislators-current.json -text
+data/evidence/* -text
