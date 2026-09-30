@@ -52,3 +52,24 @@ test('invalid receipt identity provides a working lookup recovery link',async()=
     assert.equal(dom.window.document.querySelector('#receipt a').getAttribute('href'),'index.html');
   }finally{dom.window.close();}
 });
+
+test('member deep links expose affiliation without encoding finance as party color',async()=>{
+  const data=JSON.parse(await readFile(new URL('../data/politicians.json',import.meta.url),'utf8'));
+  const html=await readFile(new URL('../src/receipt.html',import.meta.url),'utf8');
+  for(const party of ['Democrat','Republican','Independent']) {
+    const member=data.politicians.find(p=>p.party===party);
+    const dom=new JSDOM(html,{url:`https://receipts.test/receipt.html?id=${member.id}`,runScripts:'outside-only'});
+    try {
+      dom.window.RECEIPTS_DATA=data;
+      for(const file of ['core.js','receipt.js'])dom.window.eval(await readFile(new URL(`../src/${file}`,import.meta.url),'utf8'));
+      const doc=dom.window.document;
+      assert.equal(doc.getElementById('member-name').textContent,member.name);
+      assert.equal(doc.querySelector('.party-label').textContent,party);
+      assert.equal(doc.querySelector('.party-label').dataset.party,party==='Democrat'?'democrat':party==='Republican'?'republican':'neutral');
+      assert.equal(doc.body.hasAttribute('data-party'),false);
+      assert.match(doc.querySelector('.compare-action').href,new RegExp(`compare.html\\?id=${member.id}$`));
+      assert.equal(dom.window.ReceiptsCore.partyKind('unknown'),'neutral');
+      assert.match(doc.getElementById('record-snapshot').textContent,/Sep 8, 2026/);
+    } finally {dom.window.close();}
+  }
+});
