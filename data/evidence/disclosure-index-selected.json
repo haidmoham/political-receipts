@@ -1,0 +1,51 @@
+{
+  "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025FD.ZIP",
+  "fullIndexSha256": "dd94f235c0a560e8e7385398db99f25d9c0888bb1964eda9f994f520852ad8fa",
+  "selection": "Existing Pelosi pilot plus first three PTR index entries by 2025 filing date, then document ID. Every included report is fully transcribed. No ranking by activity or party.",
+  "entries": [
+    {
+      "Prefix": "Hon.",
+      "Last": "Pelosi",
+      "First": "Nancy",
+      "Suffix": null,
+      "FilingType": "P",
+      "StateDst": "CA11",
+      "Year": "2025",
+      "FilingDate": "1/17/2025",
+      "DocID": "20026590"
+    },
+    {
+      "Prefix": "Hon.",
+      "Last": "Collins",
+      "First": "Michael A.",
+      "Suffix": null,
+      "FilingType": "P",
+      "StateDst": "GA10",
+      "Year": "2025",
+      "FilingDate": "1/1/2025",
+      "DocID": "20026489"
+    },
+    {
+      "Prefix": "Hon.",
+      "Last": "Foxx",
+      "First": "Virginia",
+      "Suffix": null,
+      "FilingType": "P",
+      "StateDst": "NC05",
+      "Year": "2025",
+      "FilingDate": "1/6/2025",
+      "DocID": "20026516"
+    },
+    {
+      "Prefix": "Hon.",
+      "Last": "Beyer",
+      "First": "Donald Sternoff",
+      "Suffix": "Jr",
+      "FilingType": "P",
+      "StateDst": "VA08",
+      "Year": "2025",
+      "FilingDate": "1/6/2025",
+      "DocID": "20026517"
+    }
+  ]
+}

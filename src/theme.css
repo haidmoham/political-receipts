@@ -216,3 +216,20 @@ main { display: block; }
 .transaction p { margin: 8px 0; }
 .ticker { font-size: 14px; color: var(--muted); }
 @media (max-width: 650px) { .funding-main { padding: 0 20px 24px; } .record-page .profile-top { padding: 20px; } .funding-split > div { display: block; } .funding-split dd { margin-top: 6px; } .history-section { margin-top: 30px; } }
+
+/* More records in the existing decisions column, without growing the page. */
+.feed-caption { margin-bottom: 4px; }
+.decision-feed { max-height: 550px; overflow-y: auto; scrollbar-gutter: stable; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding-right: 12px; }
+.decision-feed:focus-visible { outline: 3px solid var(--ink); outline-offset: 4px; }
+.decisions { list-style: none; padding: 0; margin: 0; }
+.decision { border-bottom: 1px solid var(--line); }
+.record-page .decision details { border: 0; }
+.record-page .decision summary { display: block; padding: 20px 0; font-weight: 400; }
+.decision summary::after { content: 'Details +'; display: block; font-size: 14px; text-decoration: underline; margin-top: 8px; }
+.decision details[open] > summary::after { content: 'Close details −'; }
+.decision-meta { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px; font-size: 14px; color: var(--muted); }
+.decision-vote { color: var(--ink); font-size: 16px; border: 1px solid var(--line); padding: 3px 9px; }
+.decision-title { display: block; font-size: 18px; font-weight: 700; line-height: 1.45; margin: 12px 0 8px; }
+.decision-question { display: block; font-size: 15px; line-height: 1.5; color: var(--muted); }
+.decision-detail { padding-bottom: 20px; }
+@media (max-width: 650px) { .decision-feed { max-height: 470px; } }
