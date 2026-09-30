@@ -66,6 +66,7 @@ test('member deep links expose affiliation without encoding finance as party col
       assert.equal(doc.getElementById('member-name').textContent,member.name);
       assert.equal(doc.querySelector('.party-label').textContent,party);
       assert.equal(doc.querySelector('.party-label').dataset.party,party==='Democrat'?'democrat':party==='Republican'?'republican':'neutral');
+      assert.equal(doc.querySelector('.player-card').dataset.party,doc.querySelector('.party-label').dataset.party);
       assert.equal(doc.body.hasAttribute('data-party'),false);
       assert.match(doc.querySelector('.compare-action').href,new RegExp(`compare.html\\?id=${member.id}$`));
       assert.equal(dom.window.ReceiptsCore.partyKind('unknown'),'neutral');
