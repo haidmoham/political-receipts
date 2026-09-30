@@ -6,3 +6,5 @@ artifacts/
 
 out/
 site-dist/
+
+.vercel/
