@@ -1,12 +1,10 @@
 # Receipts website
 
-The public website belongs at https://receipts.shin86.dev/.
-Its deep blue background, cream text, coral accents, and serif headings follow shin86.dev.
-Member lookup is the entry point. Cards and candidate comparisons use the same public snapshot as the extension.
+The public web viewer belongs at https://receipts.mhaider.dev/.
+Member lookup is the entry point. Cards and candidate comparisons use the same dated public snapshot as the extension. The website does not install the extension.
 
-Run `npm run build:site` to build the extension and the separate static website output.
-Sites uses `.openai/hosting.json`. Package only `out` for the website.
-The website does not include the extension manifest, background worker, popup, or raw evidence files.
+Run `npm run build:site` to build the extension and the separate static website output. Vercel builds from the repository root and publishes only `out`, as configured in `vercel.json`. The existing Sites configuration remains unchanged.
 
-Website publication does not publish the Chrome extension or RuneLite plugin.
-The remaining Chrome release requirements stay in issue #1 and `docs/launch-later.md`.
+The website output excludes the extension manifest, background worker, popup, and raw evidence files. Runtime records and portraits are bundled. Lookup stays in the browser; explicit source links visit FEC or Senate websites.
+
+Website publication does not publish the Chrome extension or RuneLite plugin. The remaining Chrome release requirements stay in issue #1 and `docs/launch-later.md`.
