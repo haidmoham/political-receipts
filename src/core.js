@@ -2,7 +2,24 @@
   'use strict';
   const money = value => Number.isFinite(value) ? new Intl.NumberFormat('en-US', {style: 'currency', currency: 'USD', minimumFractionDigits: value!==0 && Math.abs(value)<1 ? 2 : 0, maximumFractionDigits: value!==0 && Math.abs(value)<1 ? 2 : 0}).format(value) : 'Not reported';
   const escape = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'}[char]));
-  const date = value => value ? new Date(`${value.slice(0, 10)}T12:00:00Z`).toLocaleDateString('en-US', {month:'short',day:'numeric',year:'numeric',timeZone:'UTC'}) : 'Not reported';
+  const date = value => {
+    if (typeof value !== 'string' || !/^\d{4}-\d{2}-\d{2}(?:T|$)/.test(value)) return 'Not reported';
+    const day = value.slice(0, 10), parsed = new Date(`${day}T12:00:00Z`);
+    if (!Number.isFinite(parsed.getTime()) || parsed.toISOString().slice(0, 10) !== day) return 'Not reported';
+    return parsed.toLocaleDateString('en-US', {month:'short',day:'numeric',year:'numeric',timeZone:'UTC'});
+  };
+  const moneyFields = [
+    ['Individual contributions', 'individualContributions', 'TTL_INDIV_CONTRIB', 'Reported contributions from individuals. This field does not identify employers or lobbyists.'],
+    ['Other political committees', 'otherCommitteeContributions', 'OTHER_POL_CMTE_CONTRIB', 'Reported contributions from other political committees. This is not a corporate-only or lobbyist total.'],
+    ['Party committees', 'partyCommitteeContributions', 'POL_PTY_CONTRIB', 'Reported contributions from political party committees.'],
+    ['Total receipts', 'receipts', 'TTL_RECEIPTS', 'All reported campaign receipts, including more than contributions. This is not personal income.'],
+    ['Cash on hand', 'cashOnHand', 'COH_COP', 'Reported cash balance at the coverage end date. This is a balance, not money raised during the period.'],
+    ['Transfers received', 'transfersFromAuthorized', 'TRANS_FROM_AUTH', 'Transfers received from the candidate’s authorized committees. Transfers can duplicate activity in total receipts.'],
+    ['Transfers sent', 'transfersToAuthorized', 'TRANS_TO_AUTH', 'Transfers sent to the candidate’s authorized committees. These are outgoing funds, not contributions received.'],
+  ];
+  function moneyDetails(finance) {
+    return `<dl class="money-ledger">${moneyFields.map(([label,key,field,definition]) => `<div><dt>${label}</dt><dd><strong>${money(finance.status === 'available' ? finance[key] : null)}</strong><details><summary>About ${label.toLowerCase()}</summary><p>${definition}</p><a href="https://www.fec.gov/campaign-finance-data/all-candidates-file-description/" target="_blank" rel="noopener noreferrer">FEC definition · ${field} ↗</a></details></dd></div>`).join('')}</dl>`;
+  }
   function makeMatcher(people) {
     const names = new Map();
     for (const person of people) for (const name of new Set([person.name, ...(person.aliases || [])])) {
@@ -31,10 +48,11 @@
       <div class="portrait-zone">${photo || `<div class="portrait-initials">${e(p.name.split(' ').map(w=>w[0]).filter(Boolean).slice(0,2).join(''))}</div>`}</div>
       <div class="player-identity"><h2>${e(p.name)}</h2></div></div>
       <div class="headline-stat"><span>${stamp}</span><strong>${money(committee)}</strong><small>USD · ${date(f.coverageStart)} — ${date(f.coverageEnd)}</small></div>
-      <div class="evidence-limit">Corporate / lobbyist split: <b>unavailable</b></div>
-      <a class="compare-action" href="${e(base)}compare.html?id=${encodeURIComponent(p.id)}" target="_blank" rel="noopener noreferrer">Compare with their opponents <span>↗</span></a>
+      <div class="evidence-limit">Snapshot ${date(meta.retrievedAt)} · bundled records, not live.<br>Corporate / lobbyist split: <b>unavailable</b>${!available ? `<p class="missing-reason">${e(f.unavailableReason || 'No campaign summary is available in this snapshot.')} Missing data does not mean zero.</p>` : committee === null ? '<p class="missing-reason">This summary does not report the other political committee category. Missing data does not mean zero.</p>' : ''}</div>
+      <a class="compare-action" href="${e(base)}compare.html?id=${encodeURIComponent(p.id)}" target="_blank" rel="noopener noreferrer">Compare FEC registrants <span>↗</span></a>
       <details><summary>Money breakdown & sources</summary>
-      <div class="stat-grid">${[['Individual contributions',f.individualContributions],['Other committees',f.otherCommitteeContributions],['Party committees',f.partyCommitteeContributions],['Total receipts',f.receipts]].map(([label,value])=>`<div><b>${available?money(value):'Unknown'}</b><span>${label}</span></div>`).join('')}</div>
+      ${moneyDetails(f)}
+      <p>Candidate ID: ${e(p.fecId || 'No unique FEC ID selected')}. <a href="${e(source)}" target="_blank" rel="noopener noreferrer">Open this candidate’s FEC record ↗</a></p>
       ${policyContext(p.id)}
       <p><b>Committee share: ${share.label}</b> — other political committee contributions divided by the sum of individual, other political committee, and party committee contributions. It is a funding measure, not a morality rating. ${share.label==='—'?'Required categories are missing, negative, or total zero.':''}</p><p>Receipts include more than donations, such as loans and transfers. These contribution categories do not add up to total receipts. Other political committees are not necessarily corporate PACs. A zero in this category does not mean no lobbyist money. These totals do not establish influence or misconduct.</p><p>Snapshot retrieved ${date(meta.retrievedAt)}. Reports may change. A missing value does not mean zero. Each campaign has its own coverage end date. Dollar values of $1 or more are rounded to the nearest dollar. Share is rounded to a whole percent, with nonzero shares below 1% shown as &lt;1%.</p></details>
       <div class="receipt-bottom"><span class="barcode" aria-hidden="true"></span><a href="${e(source)}" target="_blank" rel="noopener noreferrer">CHECK THE RECEIPT ↗</a></div></div>`;

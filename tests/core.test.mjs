@@ -31,3 +31,25 @@ test('small nonzero dollar amounts are never displayed as reported zero',()=>{
   for(const amount of [0.01,0.25,-0.01,-0.25])assert.doesNotMatch(core.money(amount),/^-?\$0(?:\.00)?$/);
   assert.equal(core.money(null),'Not reported');
 });
+
+test('card exposes snapshot, field definitions, balances, transfers, and missing reasons',()=>{
+  const person=data.politicians.find(p=>p.finance.status==='available');
+  const html=core.card(person,data.meta);
+  assert.match(html,/Snapshot Sep 8, 2026 · bundled records, not live/);
+  assert.match(html,/Compare FEC registrants/);
+  assert.doesNotMatch(html,/Compare with their opponents/);
+  for(const field of ['TTL_INDIV_CONTRIB','OTHER_POL_CMTE_CONTRIB','POL_PTY_CONTRIB','TTL_RECEIPTS','COH_COP','TRANS_FROM_AUTH','TRANS_TO_AUTH'])assert.match(html,new RegExp(field));
+  assert.match(html,/balance, not money raised/);
+  assert.match(html,/outgoing funds, not contributions received/);
+  const unavailable=core.card({...person,finance:{status:'unavailable',receipts:123,unavailableReason:'No match <script>bad</script>'}},data.meta);
+  assert.match(unavailable,/No match &lt;script&gt;bad&lt;\/script&gt;/);
+  assert.doesNotMatch(unavailable,/<script>|\$123/);
+  assert.match(unavailable,/Missing data does not mean zero/);
+  const partial=core.card({...person,finance:{...person.finance,otherCommitteeContributions:null}},data.meta);
+  assert.match(partial,/does not report the other political committee category/);
+});
+
+test('dates reject invalid or incomplete values without inventing a period',()=>{
+  for(const value of [null,undefined,123,'bad','2026-02-30','2026-13-01','2026-09'])assert.equal(core.date(value),'Not reported');
+  assert.equal(core.date('2026-09-08T14:49:03.1845010Z'),'Sep 8, 2026');
+});

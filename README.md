@@ -26,7 +26,7 @@ To test the real extension, open `chrome://extensions`, enable Developer mode, c
 ## What the card means
 
 - The main amount is FEC **contributions from other political committees**. It is not a corporate-only or lobbyist total.
-- Green means reported zero in this category and period. Missing data stays unknown. No moral rating is assigned.
+- Zero means reported zero in this category and period. Missing data stays unknown. No moral rating is assigned.
 - Committee share uses individual + other political committee + party committee contributions as its denominator. It appears only in the expanded definitions.
 - A committee role and its jurisdiction can establish where public power touches daily life. They do not prove that a donor caused an action.
 - Comparison candidates are FEC registrations. They can include primary or withdrawn candidates. They are not confirmed ballot opponents.
@@ -47,6 +47,6 @@ Store listing, privacy draft, review checklist, and release gates are in `docs/`
 
 ## Design
 
-An original compact sports-card structure with a grayscale portrait, clear sans-serif type, neutral surfaces, and a restrained red funding amount. The default card has one amount and one comparison action. Details stay collapsed.
+An original compact sports-card structure with a grayscale portrait, clear sans-serif type, neutral surfaces, and a restrained red funding amount. The default card has one amount, its reporting period, a visible snapshot date, and one comparison action. The expanded ledger explains each FEC field and separates contributions, total receipts, cash balances, and transfers. Missing summaries show the reason. Details stay collapsed.
 
 No band or game logos or artwork are used. Public portraits remain unmodified files; CSS applies the visual treatment. This project is not affiliated with Integrity Index, EA, FIFA, or a political party.
