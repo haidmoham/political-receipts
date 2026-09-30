@@ -12,3 +12,5 @@ This is one selected original report; later filings and amendments are not recon
 
 Raw XML and PDF are preserved under `data/evidence/`; SHA256 hashes accompany their source URLs in `public-records.json`. Funding/votes/disclosures retain separate reporting dates. No predictions, causal links, motive judgments or misconduct scores. Extension card behavior is unchanged; this review applies to the web profile.
 
+
+Unsupported donor-size and lobbyist categories are omitted from the main profile. Vote/investment sections render only with matched evidence. The compact coverage disclosure identifies exclusions and makes clear that omission does not establish zero. Missing finance keeps a single explicit unavailable state rather than a ledger of unavailable amounts.
