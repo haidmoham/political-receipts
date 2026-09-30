@@ -3,6 +3,7 @@ const receipt = document.getElementById('receipt');
 receipt.innerHTML = person ? ReceiptsCore.card(person, RECEIPTS_DATA.meta) : '<p class="missing-record">Member not found in this snapshot. <a href="index.html">Find a member of Congress</a>.</p>';
 document.title = person ? `${person.name} — Receipts` : 'Member not found — Receipts';
 if (person) {
+  receipt.querySelector('.player-card').dataset.party = ReceiptsCore.partyKind(person.party);
   const comparisonLink = receipt.querySelector('.compare-action');
   comparisonLink.removeAttribute('target');
   comparisonLink.querySelector('span').textContent = '→';

@@ -178,3 +178,11 @@ th:first-child, td:first-child { text-align: left; }
 }
 header nav a { font: 12px Arial, Helvetica, sans-serif; letter-spacing: 0; color: var(--ink); text-decoration: none; }
 main { display: block; }
+
+/* Affiliation stripes identify the record; financial amounts remain neutral. */
+.record-page .player-card, .mini-card { --party-stripe: #68746c; }
+.record-page .player-card[data-party='democrat'], .mini-card[data-party='democrat'] { --party-stripe: #27639a; }
+.record-page .player-card[data-party='republican'], .mini-card[data-party='republican'] { --party-stripe: #a74331; }
+.record-page .card-hero, .mini-card { border-top: 8px solid var(--party-stripe); }
+.record-page .player-card[data-party='neutral'] .card-hero, .mini-card[data-party='neutral'] { border-top-style: double; }
+.record-page .party-badge { font-size: 12px; font-weight: 700; }
