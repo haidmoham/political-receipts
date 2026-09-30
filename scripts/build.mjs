@@ -7,6 +7,7 @@ const manifest=JSON.parse(await readFile(resolve(root,'manifest.json'),'utf8'));
 const dataset=JSON.parse(await readFile(resolve(root,'data/politicians.json'),'utf8'));
 if(dataset.politicians.length<500 || !dataset.meta.sources.length)throw Error('Incomplete data snapshot');
 for(const file of await readdir(resolve(root,'src')))await copyFile(resolve(root,'src',file),resolve(out,file));
+await writeFile(resolve(out,'public-records.js'),`globalThis.RECEIPTS_RECORDS=${await readFile(resolve(root,'data/public-records.json'),'utf8')};`);
 await writeFile(resolve(out,'manifest.json'),JSON.stringify(manifest,null,2));
 const policy=JSON.parse(await readFile(resolve(root,'data/policy-context.json'),'utf8'));
 const comparison=JSON.parse(await readFile(resolve(root,'data/party-comparison.json'),'utf8'));
