@@ -16,12 +16,16 @@ function renderMembers() {
     const name = document.createElement('strong');
     name.textContent = person.name;
     const detail = document.createElement('span');
-    detail.textContent = `${person.state} · ${person.chamber} · ${person.party} ↗`;
+    detail.textContent = `${person.state} · ${person.chamber}`;
+    const party = document.createElement('span');
+    party.className = 'party-label';
+    party.dataset.party = ReceiptsCore.partyKind(person.party);
+    party.textContent = person.party || 'Party not reported';
     const coverage = document.createElement('span');
     coverage.textContent = person.finance?.status === 'available'
       ? `Report through ${ReceiptsCore.date(person.finance.coverageEnd)}`
       : 'Campaign summary unavailable';
-    link.append(name, detail, coverage);
+    link.append(name, detail, party, coverage);
     members.append(link);
   }
   more.hidden = matches.length <= limit;

@@ -70,5 +70,11 @@
     if(!p)return '';
     return `<div class="policy"><span class="eyebrow">WHERE PUBLIC POWER MEETS DAILY LIFE</span><h3>${escape(p.heading)}</h3><p>${escape(p.role)}</p><p>${escape(p.stakes)}</p><span class="connection-note">Committee jurisdiction. A donor-to-policy connection has not been established.</span>${p.evidence.filter(s=>/^https:\/\/[a-z0-9.-]+\.(gov|senate.gov)\//i.test(s.url)).map(s=>`<a href="${escape(s.url)}" target="_blank" rel="noopener noreferrer">${escape(s.label)} ↗</a>`).join('')}</div>`;
   }
-  root.ReceiptsCore = {money, escape, date, makeMatcher, card, committeeShare};
+  // Visual affiliation is a fixed label mapping, never a financial assessment.
+  function partyKind(party) {
+    if (party === 'Democrat') return 'democrat';
+    if (party === 'Republican') return 'republican';
+    return 'neutral';
+  }
+  root.ReceiptsCore = {money, escape, date, makeMatcher, card, committeeShare, partyKind};
 })(globalThis);
