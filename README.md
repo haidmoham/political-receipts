@@ -1,6 +1,6 @@
 # Receipts
 
-A small Chrome extension by **shin86dev**. Hover or focus a supported member of Congress to see a campaign finance card. Compare FEC-registered candidates for the same seat.
+ Hover or focus a supported member of Congress to see a campaign finance card. Compare FEC-registered candidates for the same seat.
 
 This is a review build. It has not been submitted to the Chrome Web Store.
 
